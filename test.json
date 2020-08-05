@@ -1,0 +1,15 @@
+{
+  "content": "At its founding, Intel was distinguished by its ability to make logic circuits using semiconductor devices ",
+  "annotation": [
+    {
+      "label": ["U-org"],
+      "points": [
+        {
+          "text": "Intel",
+          "start": 18,
+          "end": 22
+        }
+      ]
+    }
+  ]
+}

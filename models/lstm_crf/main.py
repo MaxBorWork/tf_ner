@@ -12,7 +12,7 @@ import numpy as np
 import tensorflow as tf
 from tf_metrics import precision, recall, f1
 
-DATADIR = '../../data/example'
+DATADIR = '../../data/model'
 
 # Logging
 Path('results').mkdir(exist_ok=True)
@@ -142,7 +142,7 @@ if __name__ == '__main__':
         'dim': 300,
         'dropout': 0.5,
         'num_oov_buckets': 1,
-        'epochs': 25,
+        'epochs': 100,
         'batch_size': 20,
         'buffer': 15000,
         'lstm_size': 100,
@@ -161,14 +161,14 @@ if __name__ == '__main__':
         return str(Path(DATADIR, '{}.tags.txt'.format(name)))
 
     # Estimator, train and evaluate
-    train_inpf = functools.partial(input_fn, fwords('train'), ftags('train'),
+    train_inpf = functools.partial(input_fn, fwords('model'), ftags('model'),
                                    params, shuffle_and_repeat=True)
-    eval_inpf = functools.partial(input_fn, fwords('testa'), ftags('testa'))
+    eval_inpf = functools.partial(input_fn, fwords('test'), ftags('test'))
 
     cfg = tf.estimator.RunConfig(save_checkpoints_secs=120)
     estimator = tf.estimator.Estimator(model_fn, 'results/model', cfg, params)
     Path(estimator.eval_dir()).mkdir(parents=True, exist_ok=True)
-    hook = tf.contrib.estimator.stop_if_no_increase_hook(
+    hook = tf.estimator.experimental.stop_if_no_increase_hook(
         estimator, 'f1', 500, min_steps=8000, run_every_secs=120)
     train_spec = tf.estimator.TrainSpec(input_fn=train_inpf, hooks=[hook])
     eval_spec = tf.estimator.EvalSpec(input_fn=eval_inpf, throttle_secs=120)
@@ -187,5 +187,5 @@ if __name__ == '__main__':
                     f.write(b' '.join([word, tag, tag_pred]) + b'\n')
                 f.write(b'\n')
 
-    for name in ['train', 'testa', 'testb']:
+    for name in ['model', 'test']:
         write_predictions(name)

@@ -1,0 +1,30 @@
+O O O O U-org O O O O O O O O O O O O 
+O O O O O B-hard L-hard O O O O O O B-hard L-hard 
+O O O O O O O O O O O O O O O U-tim O O O B-hard I-hard L-hard O O B-hard I-hard L-hard O U-hard O O O O O O O O O O B-hard L-hard O O U-org O B-org I-org L-org O B-geo I-geo L-geo 
+O O O O O U-org O O O B-hard I-hard I-hard I-hard I-hard L-hard O U-hard O O O O O O O O O U-hard O O O O O O B-hard I-hard L-hard 
+O B-hard L-hard O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O B-hard I-hard L-hard O U-hard O O B-hard L-hard O O U-tim O O O 
+B-hard L-hard O O O B-hard I-hard L-hard O O O O U-tim O O O O O O O O O 
+U-org O O O O O U-tim O O O O O O O O O O O O O O O O O O O O O O 
+U-org O O O O O O O B-hard L-hard O O U-tim 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O U-org O O O O O O O O U-tim 
+U-org O O O O O O O U-tim O O U-geo O O O O O U-org O O O O O O O O O O U-geo O U-geo O O O U-tim O O O O O O O U-geo O U-geo O B-geo L-geo O O U-tim 
+O O O U-tim O O O O O O B-hard I-hard L-hard O U-hard O O 
+O O O O O O O O O O O U-tim O O O O O O O O 
+O O O O O U-org O O O O O O U-org O O O O O O B-per L-per O O O U-tim O O O O O O O O O O O O O O O O O 
+O O O O B-hard I-hard L-hard O O O O O O 
+O O O O O U-tim O O O O O O O O O O U-org O O O O O O O O O O O U-org O O O B-tim L-tim O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O B-per L-per O U-tim 
+O O O O O O O O U-tim O U-org O O O O O O O O O O O O O O O O O U-tim O O O O B-hard L-hard O O O O O 
+O U-tim O U-org O U-soft O O O O O O O O O O O 
+O O O O O O O O O O U-org O O O O O O O O O O O O O O O O O U-org O O O O 
+O O O O U-org O O O O O O O O O O 
+O B-tim L-tim O U-org O O O O O O O O O B-org L-org O O O O U-soft O 
+O B-tim L-tim O U-org O B-org L-org O O U-org O O O O O O 
+U-org O O O O O O O O O O O O O O O O O O O O O O O O O O O U-org O O 
+O B-tim L-tim O U-org O O O O O O O U-soft 
+O B-tim L-tim O U-org O O O O O O O B-org I-org L-org O O O O O O O 
+O O O O O O O O O O O O O O O 
+O B-tim L-tim O U-org O O O O O U-org O O O O O O 
+O O O O O O O O U-geo O O O O O O O O O

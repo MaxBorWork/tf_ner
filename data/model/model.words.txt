@@ -1,0 +1,30 @@
+At its founding , Intel was distinguished by its ability to make logic circuits using semiconductor devices 
+The founders' goal was the semiconductor memory market , widely predicted to replace magnetic-core memory 
+Its first product , a quick entry into the small , high-speed memory market in 1969 , was the 3101 Schottky TTL bipolar 64-bit static random-access memory ( SRAM ) , which was nearly twice as fast as earlier Schottky diode implementations by Fairchild and the Electrotechnical Laboratory in Tsukuba , Japan 
+In the same year , Intel also produced the 3301 Schottky bipolar 1024-bit read-only memory ( ROM ) and the first commercial metal–oxide–semiconductor field-effect transistor ( MOSFET ) silicon gate SRAM chip , the 256-bit 1101 
+While the 1101 was a significant advance , its complex static cell structure made it too slow and costly for mainframe memories 
+The three-transistor cell implemented in the first commercially available dynamic random-access memory ( DRAM ) , the 1103 released in 1970 solved these issues 
+The 1103 was the bestselling semiconductor memory chip in the world by 1972 , as it replaced core memory in many applications 
+Intel s business grew during the 1970s as it expanded and improved its manufacturing processes and produced a wider range of products , still dominated by various memory devices 
+Intel created the first commercially available microprocessor ( Intel 4004 ) in 1971 
+The microprocessor represented a notable advance in the technology of integrated circuitry , as it miniaturized the central processing unit of a computer , which then made it possible for small machines to perform calculations that in the past only very large machines could do 
+Considerable technological innovation was needed before the microprocessor could actually become the basis of what was first known as a mini computer and then known as a personal computer Intel also created one of the first microcomputers in 1973 
+Intel opened its first international manufacturing facility in 1972 , in Malaysia , which would host multiple Intel operations , before opening assembly facilities and semiconductor plants in Singapore and Jerusalem in the early 1980s , and manufacturing and development centres in China , India and Costa Rica in the 1990s 
+By the early 1980s , its business was dominated by dynamic random-access memory ( DRAM ) chips 
+However , increased competition from Japanese semiconductor manufacturers had , by 1983 , dramatically reduced the profitability of this market 
+The growing success of the IBM personal computer , based on an Intel microprocessor, was among factors that convinced Gordon Moore ( CEO since 1975 ) to shift the company's focus to microprocessors and to change fundamental aspects of that business model 
+Moore's decision to sole-source Intel's 386 chip played into the company's continuing success 
+By the end of the 1980s , buoyed by its fortuitous position as microprocessor supplier to IBM and IBM's competitors within the rapidly growing personal computer market , Intel embarked on a 10-year period of unprecedented growth as the primary ( and most profitable ) hardware supplier to the PC industry , part of the winning Wintel' combination 
+Moore handed over to Andy Grove in 1987 
+By launching its Intel Inside marketing campaign in 1991 , Intel was able to associate brand loyalty with consumer selection , so that by the end of the 1990s , its line of Pentium processors had become a household name 
+In 2010 , Intel purchased McAfee , a manufacturer of computer security technology , for $7.68 billion 
+As a condition for regulatory approval of the transaction , Intel agreed to provide rival security firms with all necessary information that would allow their products to use Intel chips and personal computers 
+After the acquisition , Intel had about 90 employees , including about 12 software engineers 
+In September 2016 , Intel sold a majority stake in its computer-security unit to TPG Capital , reversing the five-year-old McAfee acquisition 
+In August 2010 , Intel and Infineon Technologies announced that Intel would acquire Infineon's Wireless Solutions business 
+Intel planned to use Infineon's technology in laptops , smart phones , netbooks , tablets and embedded computers in consumer products , eventually integrating its wireless modem into Intel silicon chips 
+In March 2011 , Intel bought most of the assets of Cairo-based SySDSoft 
+In July 2011 , Intel announced that it had agreed to acquire Fulcrum Microsystems Inc. , a company specializing in network switches 
+The company used to be included on the EE Times list of 60 Emerging Startups 
+In October 2011 , Intel reached a deal to acquire Telmap , an Israeli-based navigation software company 
+The purchase price was not disclosed , but Israeli media reported values around $300 million to $350 million
