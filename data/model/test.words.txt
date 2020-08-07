@@ -1,20 +1,21 @@
-In July 2012 , Intel agreed to buy 10% of the shares of ASML Holding NV for $2.1 billion and another $1 billion for 5% of the shares that need shareholder approval to fund relevant research and development efforts , as part of a EUR3.3 billion ( $4.1 billion ) deal to accelerate the development of 450-millimeter wafer technology and extreme ultra-violet lithography by as much as two years
-In July 2013 Intel confirmed the acquisition of Omek Interactive , an Israeli company that makes technology for gesture-based interfaces , without disclosing the monetary value of the deal
-An official statement from Intel read: One report estimated the value of the acquisition between US$30 million and 50 million
-The acquisition of a Spanish natural language recognition startup , Indisys was announced in September 2013
-The terms of the deal were not disclosed but an email from an Intel representative stated : Indysis explains that its artificial intelligence (AI) technology In December 2014 , Intel bought PasswordBox
-In January 2015 , Intel purchased a 30% stake in Vuzix , a smart glasses manufacturer. The deal was worth $24.8 million
-In February 2015 , Intel announced its agreement to purchase German network chipmaker Lantiq , to aid in its expansion of its range of chips in devices with Internet connection capability
-In June 2015 , Intel announced its agreement to purchase FPGA design company Altera for $16.7 billion , in its largest acquisition to date
-The acquisition completed in December 2015
-In October 2015 , Intel bought cognitive computing company Saffron Technology for an undisclosed price
-In August 2016 , Intel purchased deep-learning startup Nervana Systems for $350 million
-In December 2016 , Intel acquired computer vision startup Movidius for an undisclosed price
-In March 2017 , Intel announced that they had agreed to purchase Mobileye , an Israeli developer of autonomous systems for US$15.3 billion
-In June 2017 , Intel Corporation announced an investment of over Rs . 1100 crore ( $170 million ) for its upcoming Research and Development (R&D) centre in Bangalore
-In January 2019 , Intel announced an investment of over $11 billion on a new Israeli chip plant , as told by the Israeli Finance Minister
-Its best known software products are the Microsoft Windows line of operating systems , the Microsoft Office suite , the Internet Explorer and Edge web browsers
-It is considered one of the Big Five technology companies , alongside Amazon , Apple , Google and Facebook
-Microsoft introduced an operating environment named Windows on November 20 , 1985
-As part of an agreement allowing Xerox to buy shares in Apple at a favorable price , it also used concepts from the Xerox PARC Alto computer , which former Apple Steve Jobs and other Lisa team members had previewed
-Apple replaced Mac OS with a new operating system in 2002 , named Mac OS X
+Not bad performance
+I m using an older 720p TV so pic quality is as good as it can get on the TV
+I had to use the ATV with a wired connection - not sure if it can run on wireless network
+There are some upgrades that can be done for better performance ( HD Crystal card ) and larger HD , but I figure by the time I invest more $ $ into this I could have bought a new Android / Kodi box for the same cost
+I have tried several possibilities
+I created a Sierra OS external drive and downgraded to iTunes 12.6.3.6
+Tried to replace the " iTunes Library.itl " file from my current High Sierra iTunes 12.7.x in the iTunes 12.6.x folder but of course I got an error message that it was n't compatible with an earlier version , so ... I tried the Export Playlist / Import Playlist method ( Export Playlist from my current Mac OS and Import Playlist on my iTunes 12.6.x ) and was able to get all of my current iTunes media on to my iTunes 12.6.x
+The only thing that seems to be different is the Apple TV icon at the top of the iTunes menu is missing , but clicking on my iPhone / iPad icon dropped down a menu with iPhone , iPad AND Apple TV
+Now I can connect to my ATV1 , but still having problems with uploading photos and creating Screen Saver , etc
+Home Sharing does work though
+My next step is going to try downgrading iTunes 12.6.3.6 to 12.6.2002 and see if that helps
+was their hardware and their support was n't as good as Dell
+The XPS line of Dell is good but Lenovo seem to have better quality in the low price end
+Well , I think that Apple is the best laptop brand
+The laptops from this brand are really good to work on and are very smooth
+But the cost of Apple laptops is on a higher side
+In case , the budget is an issue then go with Dell
+The brand manufactures durable and robust laptop with latest features They were not previously also
+This year apple promised unbeliveble productivity with intel i9 , but after a some time the prodoctivity was falling ( trotling ) because of owerheating
+So , no sense to pay extra
+Nowadays only big fans of this brend are buying their products 

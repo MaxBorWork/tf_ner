@@ -165,8 +165,7 @@ O O O O O O O O O O O O O O O O O O O
 O O O O O U-soft O O O O O O O O O O O O O O 
 O O O O O U-soft O O O O O O O 
 O O O O O O O O O 
-O O O O U-soft O O 
-
+O O O O U-soft O O
 O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-hard I-hard L-hard O O O B-hard I-hard L-hard 
 O O O O O O O O O O O B-hard I-hard I-hard I-hard I-hard L-hard O O O 
 O O O O O O O B-hard L-hard O O O B-hard I-hard L-hard O O O O 

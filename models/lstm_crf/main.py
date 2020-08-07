@@ -142,7 +142,7 @@ if __name__ == '__main__':
         'dim': 300,
         'dropout': 0.5,
         'num_oov_buckets': 1,
-        'epochs': 100,
+        'epochs': 1000,
         'batch_size': 20,
         'buffer': 15000,
         'lstm_size': 100,

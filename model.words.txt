@@ -165,8 +165,7 @@ How do you try to do it ( like : going to what site and clicking what ? 3
 What happens ( like : AVG gives the following message } : ... ) ? And 2 more : 4 
 Why reinstall this version of Flash ? Reinstalling means you installed it already 
 Or did you mean  update  ? 5 
-The current version of Flash is 32.0.0.371 
-
+The current version of Flash is 32.0.0.371
 Why do you want to reinstall an old version ? m planning to build my second rig this coming September and the cpu and mobo I picked is the ryzen 7 2700 paired with a b450 msi titanium 
 I m also gon na try to pair it with a 8x2 3000 - 3200 mhz kit for optimal performance 
 I already have a spare case , 650w psu , and an sapphire rx 590 to complete the build 

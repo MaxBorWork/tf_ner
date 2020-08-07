@@ -1,20 +1,21 @@
-O B-tim L-tim O U-org O O O O O O O O B-org I-org L-org O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-O O O U-org O O O O O O O O U-geo O O O O O O O O O O O O O O O O
-O O O O U-org O O O O O O O O O O O O O O O
-O O O O O O O O O O U-org O O O B-tim L-tim
-O O O O O O O O O O O O O U-org O O O U-org O O O O O O O O B-tim L-tim O U-org O U-org
-O B-tim L-tim O U-org O O O O O U-org O O O O O O O O O O O
-O B-tim L-tim O U-org O O O O O U-geo O O U-org O O O O O O O O O O O O O O O O O
-O B-tim L-tim O U-org O O O O O O O O U-org O O O O O O O O O O
-O O O O B-tim L-tim
-O B-tim L-tim O U-org O O O O B-org L-org O O O O
-O B-tim L-tim O U-org O O O B-org L-org O O O
-O B-tim L-tim O U-org O O O O U-org O O O O
-O B-tim L-tim O U-org O O O O O O O U-org O O U-geo O O O O O O O
-O B-tim L-tim O U-org O O O O O O B-hard I-hard L-hard O O O O O O O O O O O O O O U-geo
-O B-tim L-tim O U-org O O O O O O O O O O U-geo O O O O O O O B-org I-org L-org
-O O O O O O O B-soft L-soft O O O O O O B-soft L-soft O O O B-soft L-soft O B-soft I-soft L-soft
-O O O O O O B-org L-org O O O O U-org O U-org O U-org O U-org
-U-org O O O O O U-soft O B-tim I-tim I-tim L-tim
-O O O O O O U-org O O O O U-org O O O O O O O O O O O B-soft I-soft L-soft O O O O U-org B-per L-per O O U-org O O O O
-U-org O B-soft L-soft O O O O O O U-tim O O B-soft I-soft L-soft
+O O O
+O O O O O B-hard L-hard O O O O O O O O O O O O O
+O O O O O U-hard O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-hard I-hard L-hard O O O O O O O O O O O O O O O O O O O O O O O O U-soft O U-soft O O O O O
+O O O O O
+O O O B-soft L-soft O O O O O B-soft L-soft
+O O O O O B-soft O O O O O O B-soft I-soft I-soft L-soft O O B-soft L-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-soft L-soft O O O O O B-soft L-soft O O O O O O O O O O B-soft L-soft O O O B-soft L-soft
+O O O O O O O O O O B-hard L-hard O O O O O O U-soft O O O O O O O O U-hard O O O O O O O O U-hard O U-hard O B-hard L-hard
+O O O O O O U-hard O O O O O O O O O O O O O O
+O O O O O
+O O O O O O O O B-soft L-soft O O O O O O O
+O O O O O O O O O O O U-org
+B-hard L-hard O O U-org O O O U-org O O O O O O O O O O
+O O O O O U-org O O O O O
+O O O O O O O O O O O O O O O
+O O O O U-org O O O O O O
+O O O O O O O O O O O U-org
+O O O O O O O O O O O O O O O
+O O U-org O O O O B-hard L-hard O O O O O O O O O O O O O O O O
+O O O O O O O
+O O O O O O O O O O O

@@ -6,9 +6,10 @@ B-soft
 B-tim
 I-geo
 I-hard
+I-org
 I-per
-I-geo
 I-soft
+I-tim
 L-geo
 L-hard
 L-org

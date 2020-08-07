@@ -27,4 +27,124 @@ In March 2011 , Intel bought most of the assets of Cairo-based SySDSoft
 In July 2011 , Intel announced that it had agreed to acquire Fulcrum Microsystems Inc. , a company specializing in network switches 
 The company used to be included on the EE Times list of 60 Emerging Startups 
 In October 2011 , Intel reached a deal to acquire Telmap , an Israeli-based navigation software company 
-The purchase price was not disclosed , but Israeli media reported values around $300 million to $350 million
+The purchase price was not disclosed , but Israeli media reported values around $300 million to $350 million 
+In July 2012 , Intel agreed to buy 10% of the shares of ASML Holding NV for $2.1 billion and another $1 billion for 5% of the shares that need shareholder approval to fund relevant research and development efforts , as part of a EUR3.3 billion ( $4.1 billion ) deal to accelerate the development of 450-millimeter wafer technology and extreme ultra-violet lithography by as much as two years 
+In July 2013 Intel confirmed the acquisition of Omek Interactive , an Israeli company that makes technology for gesture-based interfaces , without disclosing the monetary value of the deal 
+An official statement from Intel read: One report estimated the value of the acquisition between US$30 million and 50 million 
+The acquisition of a Spanish natural language recognition startup , Indisys was announced in September 2013 
+The terms of the deal were not disclosed but an email from an Intel representative stated : Indysis explains that its artificial intelligence (AI) technology In December 2014 , Intel bought PasswordBox 
+In January 2015 , Intel purchased a 30% stake in Vuzix , a smart glasses manufacturer. The deal was worth $24.8 million 
+In February 2015 , Intel announced its agreement to purchase German network chipmaker Lantiq , to aid in its expansion of its range of chips in devices with Internet connection capability 
+In June 2015 , Intel announced its agreement to purchase FPGA design company Altera for $16.7 billion , in its largest acquisition to date 
+The acquisition completed in December 2015 
+In October 2015 , Intel bought cognitive computing company Saffron Technology for an undisclosed price 
+In August 2016 , Intel purchased deep-learning startup Nervana Systems for $350 million 
+In December 2016 , Intel acquired computer vision startup Movidius for an undisclosed price 
+In March 2017 , Intel announced that they had agreed to purchase Mobileye , an Israeli developer of autonomous systems for US$15.3 billion 
+In June 2017 , Intel Corporation announced an investment of over Rs . 1100 crore ( $170 million ) for its upcoming Research and Development (R&D) centre in Bangalore 
+In January 2019 , Intel announced an investment of over $11 billion on a new Israeli chip plant , as told by the Israeli Finance Minister 
+Its best known software products are the Microsoft Windows line of operating systems , the Microsoft Office suite , the Internet Explorer and Edge web browsers 
+It is considered one of the Big Five technology companies , alongside Amazon , Apple , Google and Facebook 
+Microsoft introduced an operating environment named Windows on November 20 , 1985 
+As part of an agreement allowing Xerox to buy shares in Apple at a favorable price , it also used concepts from the Xerox PARC Alto computer , which former Apple Steve Jobs and other Lisa team members had previewed 
+Apple replaced Mac OS with a new operating system in 2002 , named Mac OS X 
+Android is also a popular operating system for tablets and Android smart TVs 
+In July 2012 Jolla announced Sailfish OS , their own mobile operating system , built upon Mer technology 
+Mozilla s Firefox OS consists of the Linux kernel , a hardware abstraction layer , a web-standards-based runtime environment , user interface and an integrated web browser 
+Linux is also used in stage lighting control systems , such as the WholeHogIII console 
+One of the main platforms for mobile game development , along with iOS operating system by Apple for iPhone and iPad devices 
+macOS is the second major series of Macintosh operating systems 
+The first is colloquially called the classic Mac OS , introduced in 1984 , the final release of which was Mac OS 9 in 1999 
+The first desktop version , Mac OS X 10.0 , was released in March 2001 , with its first update , 10.1 , arriving later that year 
+After this , Apple began naming its releases after big cats , which lasted until OS X 10.8 Mountain Lion 
+Since OS X 10.9 Mavericks , releases have been named after locations in California 
+Apple shortened the name to OS X in 2012 and then changed it to macOS in 2016 , adopting the nomenclature that they were using for their other operating systems iOS , watchOS and tvOS 
+The latest version is macOS Catalina , which was publicly released in October 2019 
+Samsung Galaxy is a series of computing and mobile computing devices designed manufactured , and marketed by Samsung Electronics 
+The product line includes the Samsung Galaxy S series of high-end smartphones , the Samsung Galaxy Tab series of tablets , the Samsung Galaxy Note series of tablets and phablets with the added functionality of a stylus , the foldable Samsung Galaxy Z series , and smartwatches including the first version of Samsung Galaxy Gear , with later versions dropping the Galaxy branding , until the release of Samsung Galaxy Watch in 2018 
+The Samsung Galaxy S series is a line of high-end smartphones that has co-existed with the Galaxy Note line as being Samsung s flagship smartphones 
+The PlayStation 4 officially abbreviated as PS4 is an eighth-generation home video game console developed by Sony Computer Entertainment 
+Announced as the successor to the PlayStation 3 in February 2013 , it was launched on November 15 in North America , November 29 in Europe , South America and Australia , and on February 22 , 2014 in Japan It s the 4th best-selling console of all time 
+It competes with Microsoft s Xbox One and Nintendo s Wii U and Switch 
+Various hard disk drives have been produced , including options at 20 , 60 , 120 , 250 , 320 or 500 GB 
+Inside , the Xbox 360 uses the triple-core IBM designed Xenon as its CPU , with each core capable of simultaniously processing two threads , and can therefore operate on up to six threads at once 
+Graphics processing is handled by the ATI Xenon , which has 10 MB of eDRAM 
+Its main memory pool is 512 MB in size 
+The Xbox 360 supprots videos in Windows Media Video ( WMV ) format ( including high-definition and PlaysForSure videos ) , as well as H . 264 and MPEG-4 media 
+Nvidia Corporation is an American technology company incorporated in Delaware and based in Santa Clara , California 
+It designs graphics processing units ( GPUs ) for gaming and professional markets , as well as system on a chip units ( SoCs ) for the mobile computing and automotive market 
+Its primary GPU product line , labeled GeForce , is in direct competition with Advanced Micro Devices ( AMD ) Radeon products 
+Nvidia expanded its presence in gaming industry with its handheld Shield Portable , Shield Tablet and Shield Android TV 
+Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara , California , in Silicon Valley 
+It is the world's largest and highest valued semiconductor chip manufacturer based on revenue , and is the inventor of the x86 series of microprocessor 
+Intel supplies microprocessors for computer system manufacturers such as Apple , Lenovo , HP , and Dell 
+Intel was an early developer of SRAM and DRAM memory , which represented the majority of its business until 1981 
+Although Intel created the world's first commercial microprocessor chip in 1971 , Intel's first products were shift register memory and random-access memory integrated circuits , and Intel grew to be a leader in the fiercely competitive DRAM , SRAM and ROM markets throughout the 1970s 
+Originally developed for the Japanese company Busicom to replace a number of ASICs in a calculator already produced by Busicom , the Intel 4004 was introduced to the mass market 
+IBM introduced its personal computer in 1981 , and it was rapidly successful 
+In 1982 , Intel created the 80286 microprocessor , which , two years later , was used in the IBM PC/AT 
+In 1975 , the company had started a project to develop a highly advanced 32-bit microprocessor , finally released in 1981 as the Intel iAPX 432 
+Intel extended the x86 architecture to 32 bits instead 
+The division designed several supercomputer systems , including the Intel iPSC/1 , iPSC/2 , iPSC/860 , Paragon and ASCI Red 
+In June 2011 , Intel introduced the first Pentium mobile processor based on the Sandy Bridge core 
+The B940 , clocked at 2 GHz , is faster than existing or upcoming mobile Celerons , although it is almost identical to dual-core Celeron CPUs in all other aspects 
+Intel's exclusive focus on Microsoft platforms was a thing of the past and that they would now support all tier-one operating systems such as Linux , Android , iOS , and Chrome 
+Cisco became a major provider of Voice over IP to enterprises and is now moving into the home user market through its acquisitions of Scientific Atlanta and Linksys 
+Scientific Atlanta provides VoIP equipment to cable service providers such as Time Warner , Cablevision , Rogers Communications , UPC and others ; Linksys has partnered with companies such as Skype , Microsoft and Yahoo! to integrate consumer VoIP services with and cordless phones 
+The NSA has developed JETPLOW for gaining access to ASA and 500-series PIX Firewalls 
+Nvidia was first to produce a chip capable of programmable shading , the GeForce 3 
+Used in the Xbox console , it competed with the PlayStation 2 
+With the introduction of the ATI Radeon 9700 ( also known as R300 ) , the world's first Direct3D 9.0 , pixel and vertex shaders could implement looping 
+OpenCL is an open standard defined by Khronos Group which allows for the development of code for both GPUs and CPUs with an emphasis on portability 
+The PS4 and Xbox One were released in 2013 , they both use GPUs based on AMD s Radeon HD 7850 
+VR headset manufacturers recommended the GTX 970 and the R9 290X or better at the time of their release 
+Polaris 11 and Polaris 10 GPUs from AMD are fabricated by a 14-nanometer process 
+The GPUs of the most powerful class typically interface with the motherboard by means of an expansion slot such as PCI Express ( PCIe ) or Accelerated Graphics Port ( AGP ) 
+Technologies such as SLI and NVLink by Nvidia and CrossFire by AMD allow multiple GPUs to draw images simultaneously for a single screen 
+IGPs can have up to 29.856 GB/s of memory bandwidth from system RAM , whereas a graphics card may have up to 264 GB/s of bandwidth between its RAM and GPU core 
+As of January 2013 , Lenovo only manufactured phones that use the Android operating system from Google . Numerous press reports indicated that Lenovo planned to release a phone running Windows Phone 8 , According to J.D.Howard , a vice president at Lenovo s mobile division , the company would release a Windows Phone product if there is market demand 
+In 2012 , Lenovo partially moved production of its ThinkPad line of computers to Japan 
+ThinkPads will be produced by NEC in Yamagata Prefecture 
+Akaemi Watanabe , president of Lenovo Japan , said , " As a Japanese , I am glad to see the return to domestic production and the goal is to realize full - scale production as this will improve our image and make the products more acceptable to Japanese customers 
+The Dutch PCM ( Personal Computer Magazine ) did a test in their April 2011 issue 
+They took an image of one of their editorial PC s , which was one and a half years old and never optimized 
+They compared a manual cleaning , using only standard Windows tools , with the results of a set of 9 tools by measuring startup time , shutdown time and speed according during the PCMark Vantage test 
+The results summarized below are interesting 
+They showed that some products actually slowed the system or increased the startup time 
+One program ( see table below ) even manages to increase both the startup and the shutdown time and slowing the system at the same time 
+On the positive site : they reported no problems with the system after running these tools 
+After having some problems accessing shares across the platforms , I ve found that Acronis products as well as others can be at the root 
+The cure seems to be something about increasing the IRPStackSize 
+I ve Image 9 on one ( XP ) and 10 on another ( Win7 ) and receiving errors accessing XP shares from the Win7 machine until stumbling into this fix 
+A google search will quickly find the regedit way to correct for this 
+For me the size needed to be at least decimal 21 
+Hope that helps someone out there 
+I think you may be wrong with regard to the Speed test + 1.6 % surely means that it is quicker , otherwise System Mechanic would not have been given a best rating for + 3.6 % and PC Tools worst for - 3.1 % 
+I love CCleaner 
+I recommend it to all of my friends / family ( and by recommend I mean I install it on their machines and clean up without telling them ) 
+However , a friend of mine is blind and it appears that JAWS ( 508 Compliance screen reader ) does not see all the objects in CCLeaner 
+Can anyone recommend a FREE cleanup utility that JAWS will work with ? Also , once in a while a member will be very upset no one has a fix or alternate 
+That s normal as it was noted in this area it breaks a YouTube agreement plus Google keeps changing how YouTube works so that app would need constant attention to keep working 
+Greetings from the UK ! Whenever I open Microsoft Word , which I have as Word 365 , I almost always get a litany of error messages telling me that Word is unable to open various converters 
+The programs listed include Excel , Lotus , Works , etc 
+Which computer are you using ? Exact make and model , please 
+If it s custom built which motherboard does it have ? Which operating system are you using ? Windows 10 Home ? Or Pro ? Windows 8.1 Home or Pro ? I have done the Chkdsk process ; one error was found and repaired , but Word is no better 
+The only difference is that Adobe Reader DC stopped working and I had to restart to delete it from my system 
+Samsung - PC ( Touch screen ) processor Intel i%-3470 T @2.90GHz RAM 6.00 GB 64-bit operating system , x64 based processor Windows 10 Home , Version 1903 
+Addendum to earlier comment : I am using a MacPro , with the latest operating system always up to date 
+The error messages claim to be looking for files in directories that do n't exist 
+( Even the Microsoft techies could not find them anywhere on my computer 
+) I suspect that this has something to do with the macros that I have written for these spreadsheets , but can not find anything in those macros that confirm that suspicion 
+Are you referring to # 20 : Sabrent M.2 SSD to 2.5-Inch SATA III Aluminum Enclosure Adapter ( EC - M2SA ) ? Will go ahead with the UGREEN then just purchased now 
+The Apricon was a bit expensive 
+Look like the software is the main price here I think ? Works out cheaper for me if I move my data to external matching HDD to SSD 
+Then Clone it , then replace HDD with new SDD 
+Shortly after will copying the data to the new HDD 
+Cool , problem solved well only that by matching the HDD and SSD using any of the cloning software 
+Hmm do n't want to get my hopes until it actually clone first ? I am missing something ? The Macrium or MiniTools are saying too small to clone for my 240 gb SSD 
+Are you saying the Apricon removes those restrictions and clone whether big or small e.g Cloning 500 gb HDD to 240 gb SSD ? Not sure what you are implying ? I m almost done with my data transfer so I hope it works 
+When I select the SIGNATURES button in Outlook 2016 , nothing happens 
+i ve tried numerous solutions such as checking if I have Office 365 apps installed ( I did n't ) and quick and full Office repair 
+Did n't work 
+Any ideas ? Create a new user account then log into that ( Windows User accounts , use and more are in many articles 
+) Test and see if it s a system wide issue

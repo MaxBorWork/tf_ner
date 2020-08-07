@@ -11,7 +11,7 @@ import tensorflow as tf
 from main import model_fn
 
 LINE = 'John lives in New York'
-DATADIR = '../../data/example'
+DATADIR = '../../data/model'
 PARAMS = './results/params.json'
 MODELDIR = './results/model'
 
