@@ -2,6 +2,7 @@
 
 __author__ = "Guillaume Genthial"
 
+import datetime
 import functools
 import json
 import logging
@@ -160,6 +161,8 @@ if __name__ == '__main__':
     def ftags(name):
         return str(Path(DATADIR, '{}.tags.txt'.format(name)))
 
+    start_time = datetime.datetime.now()
+    print("start time is " + str(start_time))
     # Estimator, train and evaluate
     train_inpf = functools.partial(input_fn, fwords('model'), ftags('model'),
                                    params, shuffle_and_repeat=True)
@@ -173,6 +176,8 @@ if __name__ == '__main__':
     train_spec = tf.estimator.TrainSpec(input_fn=train_inpf, hooks=[hook])
     eval_spec = tf.estimator.EvalSpec(input_fn=eval_inpf, throttle_secs=120)
     tf.estimator.train_and_evaluate(estimator, train_spec, eval_spec)
+
+    print("elapsed time is " + str(datetime.datetime.now() - start_time))
 
     # Write predictions to file
     def write_predictions(name):

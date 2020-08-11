@@ -21,7 +21,7 @@ can O O
 get O O
 on O O
 the O O
-TV O U-hard
+TV O O
 
 I O O
 had O O
@@ -56,9 +56,9 @@ for O O
 better O O
 performance O O
 ( O O
-HD B-hard B-hard
-Crystal I-hard I-hard
-card L-hard I-hard
+HD B-hard O
+Crystal I-hard O
+card L-hard O
 ) O O
 and O O
 larger O O
@@ -109,7 +109,7 @@ and O O
 downgraded O O
 to O O
 iTunes B-soft O
-12.6.3.6 L-soft U-soft
+12.6.3.6 L-soft O
 
 Tried O O
 to O O
@@ -223,19 +223,19 @@ on O O
 my O O
 iPhone U-hard U-soft
 / O O
-iPad O U-soft
+iPad O O
 icon O O
 dropped O O
 down O O
 a O O
 menu O O
 with O O
-iPhone U-hard U-hard
+iPhone U-hard U-soft
 , O O
-iPad U-hard U-hard
+iPad U-hard O
 AND O O
-Apple B-hard B-hard
-TV L-hard L-hard
+Apple B-hard U-org
+TV L-hard O
 
 Now O O
 I O O
@@ -243,7 +243,7 @@ can O O
 connect O O
 to O O
 my O O
-ATV1 U-hard U-soft
+ATV1 U-hard O
 , O O
 but O O
 still O O
@@ -255,19 +255,19 @@ photos O O
 and O O
 creating O O
 Screen O O
-Saver O U-soft
+Saver O O
 , O O
 etc O O
 
-Home O L-soft
+Home O O
 Sharing O O
 does O O
 work O O
 though O O
 
 My O O
-next O O
-step O O
+next O B-hard
+step O L-hard
 is O O
 going O O
 to O O
@@ -316,7 +316,7 @@ low O O
 price O O
 end O O
 
-Well O O
+Well O L-soft
 , O O
 I O O
 think O O
@@ -393,7 +393,7 @@ unbeliveble O O
 productivity O O
 with O O
 intel B-hard O
-i9 L-hard U-soft
+i9 L-hard O
 , O O
 but O O
 after O O
@@ -405,7 +405,7 @@ prodoctivity O O
 was O O
 falling O O
 ( O O
-trotling O U-soft
+trotling O O
 ) O O
 because O O
 of O O
