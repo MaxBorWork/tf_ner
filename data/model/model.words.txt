@@ -148,3 +148,378 @@ i ve tried numerous solutions such as checking if I have Office 365 apps install
 Did n't work 
 Any ideas ? Create a new user account then log into that ( Windows User accounts , use and more are in many articles 
 ) Test and see if it s a system wide issue
+That s bigger
+But a x pixel character is smaller , so you might prefer other settings for zoom in your browser and for scaling in Windows
+You re right , 23.8 for Lenovo versus 24.1 for Dell
+I d love to see them side - by - side but I ca n't do that as I m 90-minutes away from a Staples or BestBuy
+Is the difference in PPI , 103 versus 123 a noticeable difference ? I decided against the Lenovo because of the glossy screen and disappointed in the 94 PPI for the 2415 so spent $ 40 more for the Dell - P2421D
+It s 123 PPI , see specs
+Hi , I m on Windows 10 , and this is a new issue that s popped up in the past few days
+I have two external hard drive disks - previously , when I deleted files , they would send them to the recycle bin
+Now though , they no longer do so , and only ask me if I want to get rid of them permanently , like on a USB stick
+This is an issue because if I ever accidentally delete a file , I want to be able to recover it immediately
+This could have to do with the fact that one of my hard drives fell down lightly the other day ( though it is strange , because they re otherwise working perfectly fine , and this also affects the one that did n't fall )
+When I click on the Recycle Bin properties , its only location is my internal C : drive - I assume it s supposed to have the other drives as well ? Is there a way to add them back ? I ve tried unplugging and plugging them back in , to no avail
+As I understand it , each external HDD has a specific hidden " recycle bin " that is linked to the desktop recycle bin
+Both of them still had these , though I deleted one , to see if that changed anything , because I thought I read that if I unplugged and plugged the HDD back in it would recreate it ( which , uh , it did n't )
+I tried chkdsk and scannow on one of the drives , but not both of them
+Since both are exhibiting the same behavior , I m mostly making tests on the one containing less data
+So now I m kinda stumped
+I have no idea if there s a way to fix this , and searching online gave me no real clue - most posts are about deleting the external HDD recycle bins , which obviously is not what I want
+I m in the process of buying upgrades for my h9 - 1460ea gaming PC , and I ve sorted my RAM upgrades so it s utilising the maximum 32 GB rather than the original 6 GB
+I d appreciate some guidance on upgrading the graphics card and SSD ; it still has the GTX 660 it came with , but I m not particularly knowledgeable about GPUs
+I ve heard the GTX 1060 is a good upgrade for it and fits the case etc
+, but I ve noticed its power requirements are 400W and my PC runs on 600W ; does this make a difference , and therefore will I also need a new power supply ? And in terms of the SSD , it still has the original 128 GB SSD , but I plan on also upgrading this to at least a 500 GB or 1 TB upgrade from Crucial , but I m unsure if there s anything else I need to account for
+I went through a very old Quad Core desktop and in the end used the GTX 1060
+Please read https://www.cnet.com/forums/discussions/im-upgrading-some-old-iron-what-would-you-like/ where I took it step by step PLUS used a Watt meter at each step to see if I was overtaxing the rather small power supply
+In short , if your power supply is a single rail of either 400 or 600 Watts it will be fine
+If you want me to check out the PSU about it being single rail just supply the make and model number and hopefully I can find the specs
+If not post a picture on say Imgur.com of the specs on the PSU side panel for me to look at
+Currently I ca n't look at the power supply of the PC as it s at home ( I m a student just graduating from uni ; will be back at home around the 20th of June )
+I ve checked on the HP site for PC specs but they only specify the type of power supply it is instead of the model / make i.e. Internal ATX form factor , Total wattage : 600W , Nominal input voltage range : 100 - 127V ( 50 - 60Hz)/200 - 240V ( 50 - 60Hz ) , 2 PCI - E Power Connectors
+Just opened up the casing , for some reason I ca n't link a photo of the PSU but the model number is : DPS-600WBA
+I also looked into the physical dimensions of the GTX 1060 and I can just about physically fit it into the case
+Thanks again for any advice ! I just checked System Information on my PC and it does say that my BIOS mode is UEFI ; does that mean I can actually use a better graphics card like the 1660 Bob__B suggested ? The price of the GTX 1060 is higher than the 1660 , but there are some differences ; the 1060 is a 6 pin connection to the PSU while the 1660 is 8 pin , and there are also several variations of the 1660 i.e. GTX 1660 ti , GTX 1660 super , ASUS GTX 1660 etc
+Very confusing to know which one is best to go for at this point , but that being said the standard 1660 seems remarkably smaller physically than the 1060 - considering the h9 - 1460ea case is relatively small , it would be preferable to save as much space whilst getting the best possible option simultaneously
+I see various answers to the 6-pin and 8-pin dilemma , but if my PSU already has an 8-pin connector installed with the GTX 660 it came with should I not stick with that in case I get a 6-pin and it does n't function properly ? Like I said previously , I have little to no knowledge about PC components , so many of the google links you provided that discuss it talk about the voltage and ground parts of the cables from the PSU to the graphics card - all of which goes straight over my head and does n't actually help me narrow it down as all the answers seems to differ
+I have a 2017 iMac running High Sierra and my Magic Mouse 2 ( lithium - ion battery charged via Lightning plug ) bought at the same time no longer connects
+When I click on the " Connect " button , the display shows " Connected " and immediately switches to " Not connected "
+Nothing I do has fixed this
+Have a stock of blank CDs but have forgotten how to record on them
+They are imation brand , CD - R , 700m/80 min
+Compatible with all drives from 1x to 52x
+Can somebody tell me where to start ? My computer details : macOS High Sierra , version 10.13.6 , iMac , Retina 4K.
+Processor 3,1 GHz Intel Core i5 , Memory 8 GB 1867 MHz DDR3
+The amount of memory depends on the size of the data and how much space is used for calculations
+100 million rows of 100 bytes are just 10 GB
+That would leave 118 GB for OS , program and work space
+Might be more than needed
+Here also , ask the maker for advice and run a benchmark comparing , say , 32 , 64 and 128 GB
+I m going to skip any mention of PRAM resets and keys you hold down during power up or your Apple
+To be an owner of a legacy product I think you would have those burned into long term memory or a cheat sheet
+the replacement of the optical drive in any of the G4 laptops is certainly not for the faint of heart
+I presume that the computer would n't boot statement refers to you trying to boot the computer from the optical drive using a Mac OSX Installation disk
+If that is not the case , and your computer does not boot at all , there is a 99 % chance that it has gone to join the choir invisible
+shuffled off this mortal coil , bereft of life , gone to meet its maker ( aplogies to Monty P ) Step 17 of the ifixit procedure carries a dire warning
+With 20/20 hindsight , perhaps a better fix for the problem on this ageing laptop , between 13 and 18 years old , would have been a Firewire Optical drive or even a USB one
+to be honest , I think you are attached to another object by an inclined plane , wrapped helically around an axis
+I recently just bought an iMac G5 20 ” , 1 GB , 250 GB Mid 2005 model ( I think ) from a flee market
+I knew it was defective , but thought that I could fix it or use it as decoration at worst
+The iMac has graphical errors at boot up , but the OS system loads fine
+Everything in the background works even the DVD ( tested with a DVD film )
+Sound works and it seems just fine , but the screen is all screwed up with checkerboards and graphical errors all over the place
+I can not read what is stated on the screen
+Not bad performance
+I m using an older 720p TV so pic quality is as good as it can get on the TV
+I had to use the ATV with a wired connection - not sure if it can run on wireless network
+There are some upgrades that can be done for better performance ( HD Crystal card ) and larger HD , but I figure by the time I invest more $ $ into this I could have bought a new Android / Kodi box for the same cost
+I have tried several possibilities
+I created a Sierra OS external drive and downgraded to iTunes 12.6.3.6
+Tried to replace the " iTunes Library.itl " file from my current High Sierra iTunes 12.7.x in the iTunes 12.6.x folder but of course I got an error message that it was n't compatible with an earlier version , so ... I tried the Export Playlist / Import Playlist method ( Export Playlist from my current Mac OS and Import Playlist on my iTunes 12.6.x ) and was able to get all of my current iTunes media on to my iTunes 12.6.x
+The only thing that seems to be different is the Apple TV icon at the top of the iTunes menu is missing , but clicking on my iPhone / iPad icon dropped down a menu with iPhone , iPad AND Apple TV
+Now I can connect to my ATV1 , but still having problems with uploading photos and creating Screen Saver , etc
+Home Sharing does work though
+My next step is going to try downgrading iTunes 12.6.3.6 to 12.6.2002 and see if that helps
+was their hardware and their support was n't as good as Dell
+The XPS line of Dell is good but Lenovo seem to have better quality in the low price end
+Well , I think that Apple is the best laptop brand
+The laptops from this brand are really good to work on and are very smooth
+But the cost of Apple laptops is on a higher side
+In case , the budget is an issue then go with Dell
+The brand manufactures durable and robust laptop with latest features They were not previously also
+This year apple promised unbeliveble productivity with intel i9 , but after a some time the prodoctivity was falling ( trotling ) because of owerheating
+So , no sense to pay extra
+Nowadays only big fans of this brend are buying their products
+And about previous years
+They were 1st because of statistic
+For example from 100 laptops was sold 20 apple , 19 ASUS , 11 Lenovo , 19 Dell , 18 Microsoft and 12 MSI
+It shows that 80 % with Windows was sold and 20 % with macOS
++ Depends from the country
+I ve got an hp notebook 17-x115dx
+The images devices is not showing up on my Device Manager on Windows 10
+Apparently , my webcam is not showing up
+All of my updates including BIOS is downloaded including Windows 10 are already installed
+I did scan hardware changes and nothing happens
+I ve used the HP Support and went on their website to look for the drivers and i can not find anything
+Can anyone send me a direct link where I can download the right drivers for the built in camera , thanks
+Hi I ’ve bought Lenovo s540GTX series recently
+I have problem with its USB - A ( 3.1VER ) ports
+When I connect my WD Element external drive to any of them , it takes a while more than usual to recognize the drive
+Moreover , it s transferring speed is below 40 MB / s
+Also , when the drive is connected , my Internet connection will stop working
+I did n’t have these problems with another drives
+It would be better to say this , I thought that It might my external drive has problem but I tested it on Asus UX501vw Laptop and it worked properly
+So , anyone has any idea what should I do ! ? which is more of an example is a motherboard ( I ca n't be sure if it s the right one for yours ) which costs just under 60 USD so that s a deal since the shop counter charge here starts at 150 USD plus parts
+Hello everyone , I am looking for a new battery for my Yuanpeng YEPO 737S , the part number is H-3885265P , my previous battery capacity is 8000MAH , I am preparing to buy it online , and seeing that it is 10000MAH online , different capacity will affect Use it ? This is my first discussion here and I wanted to ask which one of these two laptops are better for college and mediocere gaming use : FX531GT - BQ400 T ( i7 - 9750 , fhd 15.6 , 16 gb ddr4 ram , 512 ssd m.2 , gtx 1650 )
+FX505GM - AL340 T ( i7 - 9750 , fhd 15.6 , 8 gb ddr4 2666 ram , SSD 128Gb + HDD 1Tb , gtx 1060 )
+The Asus TUF FX505GM has a more powerful gtx 1060 vs the Asus Rog FX531GT that has gtx 1650 but the Asus Rog will last longer
+As the Asus Rog has a more robust chassis and it looks better too
+I use bog standard 2.5 laptop size SSDs
+Now once in a while you ll have a client that demands a compatibility check
+For them you go to Crucial.com for both RAM and SSD
+Otherwise you can shop from an abundant selection of SATA 2.5 inch laptop drives
+I have an Acer Aspire A515 - 51 G and I want some opinions before I upgrade my RAM
+I was wondering if anyone out there could help me out
+I m looking for the drivers for an HDR - FX7 Mini DV camera
+I m using Windows 10 and Vegas 16 Pro
+It had worked in the past but the Device Manager did not see the camera , my firewire card is working
+I downloaded the FAM drivers off of the Sony site and it now sees the camera but there are no drivers available to operate the camera so I can move the video from the camera to the computer for processing
+Any ideas would be welcome
+I have a Panasonic Palmcorder PV - IQ403 that I want to take on vacation soon
+The recording seems fine , it s just the VCR function
+It s a very odd problem that wo n't seem to go away
+Whenever I play back video , the speed of playback switches from " SP " mode to " SLP " mode every 3 to 5 seconds
+This causes the video to go from slightly sped - up at times to downright headache inducing
+I do n't believe it s the tapes fault , but I could be wrong
+Seeing as how this is the only VCR I own ( and the only one within 3000 miles that takes VHS - C ) , I want this thing working
+I m on a mission to convert all my family s old videos from our tapes to digital so they re better safeguarded
+I started this project with a camcorder we already had to convert VHS - c tapes using Honestech VHS to DVD 3.0 software and that worked perfectly
+I just purchased a used Sharp Viewcam VL - E620u and am trying to convert my 8 mm tapes , but I m having a problem where the video looks fine when you view it from the camcorder itself , but when I try to convert it using my Honestech program the video goes black and white
+I m hoping for any tips , as I m completely lost and am so frustrated
+Thank you in advance ! What I m Using : Sharp Viewcam VL - E620u Laptop with Windows 10 The converter that came with the Honestech VHS to DVD 3.0 program Cable that came with camcorder , it has a yellow and white plug on one end and a single black plug on the other that plugs into the camcorder
+The battery that s in the camcorder is a power charger adapter where it plugs into the wall outlet
+I read this in a similar model by that maker : " This product incorporates copyright protection technology that is protected by method claims of certain U.S. patents and other intellectual property rights owned by Macrovision Corporation and other rights owners
+" I have avoided this by using a DVR or a VHS recorder
+My favorite tool in digitizing is not a PC
+it s this thing
+But remember that in your case it s never the same thing so I admit I ll try this , that and something else till it works
+Again , if you have but one digitizer then eventually it wo n't do the job
+Does anyone have a battery for a Panasonic PV - GS29 mini camcorder ? Check with the User Manual
+I think the battery is the CGR - DU06 which is still available
+The company has done some revelations about the technology that has been integrated
+According to the PlayStation 5 Lead System Architect Mark Cerny , the PS5 will have some serious improvements over the PS4
+I have : Death Stranding , Red Dead Redemption 2 , Days Gone , Spider - Man , God of War , Watch Dogs 2 , Horizon : Zero Dawn , Kingdom Come : Deliverance , Vampyr , Destiny 2 with Expansion Pass , Nioh , Resident Evil 7 , Monster Hunter World , Gravity Rush 2 , Dishonored 2 , Fallout 4 , MGS V.
+I am looking for : Outer Worlds , Star Wars Jedi : Fallen Order , Code Vein , Resident Evil 2 , The Surge 2 , Sekiro : Shadows Die Twice and PS Plus
+Symptoms : Now it does n't power up to the menu screen & where you re supposed to enter your pin digit security key
+I turned it off than restarted it , still on the tv there is a blank screen ( But powered on the system is showing it is turned on ) ? Its as if te Xbox system is in hybernation state with doing something or not in background ? i Do n't know if I should mention it , last week I installed a new App Netflix is that causing a problem ? My harddrive is 93 % full which a 500 GB hdd ? Besides Netflix I have n't installed anything there are only 6 games on it
+Yesterday while I was turning it off I saw some kind of install Xbox system did 13 hours before ? It was working just fine until last week Netflix install could have done something to it ? Any help appreciated What is The Fast Cable For Gaming Networking Cat6 Plenum or Cat6a Plenum ? Which is Batter what do you say give me your best suggestion and experience
+Jailbreak ! Arranging a challenging breakout from a reformatory state gets an unexpected end result Paizo s Against the Age Position of royalty : Getaway from the Jail Moon Experience Way
+The second piece of the Star finder Experience Way is currently accessible on Roll20
+Highlights : Complete book content changed over into the Roll20 VTT , prepared to include into the primary experience of Against the Age Position of authority
+Dynamic Lighting on each fight guide to add more dramatizations to your game ( requires in addition to / Professional membership )
+20 outsiders completely began with single tick activities : 1 one of a kind starship with map , 2 extra maps with GM layer data and dynamic lighting support rollable tokens ; rollable tables and macros
+Rush penetrating a well - watched jail moon wo n't occur without anyone else , and the Aslant Realm despite everything has that trial starship drive out there … proceed with your Star finder experience now in Against the Age Position of royalty
+Here ’s a complete overview of the PS5 ’s specs : CPU 8x Zen 2 Cores at 3.5GHz with SMT ( variable frequency ) , GPU 10.28 TFLOPs , 36 CUs at 2.23GHz ( Custom RDNA 2 architecture ) , RAM 16 GB GDDR6/256-bit , Internal Storage Custom 825 GB SSD , Expandable Storage NV Me SSD slot , External Storage USB HDD support , IO Throughput 5.5GB/s ( Raw ) , Typical 8 - 9 GB/s ( Compressed ) , Memory Bandwidth 448 GB/s , Optical Drive 4 K UHD Blu - ray Drive
+Currently Apex Legends released
+This game looks really good , i charged keys from to plays a few days when I get back from school
+Apex save the world all i play now .. Similar fornite the number one game , Fortnite is too sweaty these days , it s hard to actually enjoy the game anymore
+Apex legends is the best thing that could ve happened to fortnite
+Epic might finally have some competition and that could encourage them to improve their game
+They need to add seasons and battle pass like in fortnite ASAP or a lot of people will go back to fortnite
+New season soon so it d be good if they d add it either this month or wait until season 8 fortnite cools down
+both games are my favorite games but I think apex legends better then fortine because of it graphics apex legends graphics much better than fortine , both games are battel royal games , however , fortine not a better than apex legends there are many battel royal games available and pubg is more popular than fortine and apex legends
+apex legends were released for Microsoft Windows , PlayStation 4 and Xbox One on February 4 , 2019 , and fortine released for PlayStation 4 , Nintendo Switch , Android , Xbox One , iOS , Microsoft Windows , Macintosh operating systems in 2017
+Fortnite is a very popular game of 2017 - 2018 and developed by Epic Games , epic games are very popular gaming company which have launched more than thouasand games
+And Flash memory the answer to " can anyone " has to be yes
+While there may be a handful of folk that can get in that deep the real issue is what s in that cloud which is more likely to leak than a factory reset console with the HDD you used
+I m going to just say it since it will take too long to write this softly
+If you feel this is what is needed , then do it but I consider it foolish to remove the HDD given all the other means of data access
+AGAIN , do the factory resets and drive clearing
+Then move on
+Picture settings tested : CNET is no longer publishing advanced picture settings for any TVs we review
+Instead , we ll give more general recommendations to get the best picture without listing the detailed white balance or color management system ( CMS ) settings we may have used to calibrate the TV
+As always , the settings provided are a guidepost , and if you want the most accurate picture you should get a professional calibration
+Before calibration the Cinema and preset was the most accurate , excellent in terms of grayscale and gamma with just a slight reddish cast toward brighter areas ( but still within my error target of delta 3 )
+Since I now target a 2.2 gamma for my reviews dark rooms it was closer than ISF Expert Dark or the new Filmmaker modes , which both target gamma 2.4 / BT 1886
+ISF Bright was basically identical to Cinema but I reserved that for brighter rooms
+For my calibration I tweaked the two - point grayscale to remove the red cast , reduced light output to my target of 137 nits and increased brightness two pips to help with shadow detail ( while still keeping perfect black levels ) but otherwise left well enough alone
+The grayscale and color were already so accurate on my LG - provided review sample that I did n't need to touch the multipoint system or the color management system
+SDR dark room settings : Picture Mode Settings : Cinema , Aspect Ratio Settings : 16:9 ( Just Scan : On ) , Energy Saving : Off
+HDR Notes : HDR Cinema and Filmmaker mode were basically identical , following the EOTF quite closely and better than both Cinema Home
+Color checker was a bit less - accurate than on the C9 from last year but not bad , and as usual with OLED the set covered P3 HDR gamut very well
+The CX also measured dimmer than the C9 , coming closer in peak brightness ( both accurate and inaccurate settings ) to the B9
+Once again the TV automatically detected and engaged the " HDMI Ultra HD Deep Color " setting designed for HDR sources
+I m curious why CNET opted to stop posting the details of the calibration settings ? These were tremendously useful ! I have 3 TV s in my house right now that date back more than 15 years , and I have all 3 CNET postings which give the detailed specs bookmarked and always available on a web page in my phone
+I am trying to set up a video wall with 2x2 LG 47 " flat screens , each with 2 K resolution , in order to have one 4 K display distributed on all four screens
+I am using the AMD Radeon RX570 graphics adapter with support for up to 5 screens
+All screens are connected properly ( one with native HDMI the other three with Display port - HDMI adapters )
+All screens are working properly and shows parts of the windows image
+Eyefinity is activated , but for some reason I may only arrange the screens as four screens side by side , but not as a 2x2 matrix
+I am running Windows 10 and the standard dialog for screen rearrangement does not allow me to move the screen symbols to a 2x2 matrix , neither the interface of the graphic card settings ( Eyefinity )
+What do I need to change ? I have an LG OLED TV ( 55B7A )
+Prior to buying an Apple TV 4k , we were using the built - in Netflix and Amazon Prime apps to watch shows with no complaints
+Once we connected the Apple TV , however , we started getting what I ve since learned is called the " soap opera " effect
+It looks like we re watching a B - movie , or like we re watching a cheap video recording of people on a set
+I did some research and found articles explaining how to disable this effect in the LG TV settings
+I turned off " TruMotion " , noise reduction , and all other " features " that could contribute to this
+However , we re still seeing the effect
+And we did n't have it prior to hooking up the Apple TV
+This tells me that there must be a setting or settings in Apple TV that are contributing
+What can I do to turn it off ? At this point , my wife and I actually prefer to watch Netflix or Amazon Prime on my MacBook Pro or iPad Pro because we HATE the soap opera effect so much
+I m really hoping there s some way to turn it off ! Because this model shipped in 2014 you are looking at a model 5 or more years old and the LCD and backlight has aged and shifted in color so any calibration you find on the web would be for a new 2014 TV and not one with this many years on it
+I d go for self calibration instead for this reason
+Here s CNET and Rtings on that
+So I d go over all the settings , and connections
+For the home button to work ( Sky remote ) then the HDMI CeC function must work
+You can find failed HDMI cables and owners that moved the HDMI cables around so you re never sure if it s simple or will need a new board in the TV or another cable box
+Error after OS Update
+After one of the last Chromebook OS update in Gimp software I can not see : 1
+The patterns in the pattern window
+2
+The colors inside the color plate
+Link to a Photo of the Error
+Thanks for the help I have found both the Acer 14 and the Lenovo S330 for reasonable prices online
+Which one of the Chromebooks would be best for a student ? Basically you shop on CPU , RAM , display and keyboard quality
+As I found multiple models in each series I ca n't begin to compare
+We ll use the Chromebooks till they stop working
+I think one of them has n't been updated for years yet it s working
+As to your question , it s going to upset some that you replace the Chromebook when the updates stop
+Or look around to see if you can install Linux then run Chrome there
+Google has been prepping a new operating system outside the duo of Chrome OS and Android ( both running on the Linux kernel ) , named Fuchsia , but it s not clear if the tech giant had any intention of replacing them anytime soon
+Google announced Fuchsia in August 2016 , which is a digression from its tradition of running OSes on Linus and perhaps to serve as an operating system for embedded hardware , especially in the case of embedded devices like car dashboards or GPS units , as the Linux kernel can impact performance and may cause some problems
+Albeit , the rumor that Google has been preparing a new unified operating system to replace Chrome OS ( for Chromebooks ) and Android ( for smartphones ) , is pretty back dated already
+Fuchsia is based on a kernel called Zircon ( formerly known as “ Magenta ” ) , which was originally to serve as an OS for embedded systems due to its “ real - time ” processes
+Though it could theoretically run on any kind of device , such as IoT devices , ATMs , Wearables , even smartphones , tablets and desktops , including all devices powered by ARM and Intel processors
+The new OS which is still in its early developmental stage has garnered support for Apple ’s Swift programming language , adding to several other languages already supported
+So now that it s techtober and the current date is Oct 15 which is also MadeByGoogle day , it is clear that ChromeOS is n't going away
+I would n't say Google has a successful launch of their first Pixelbook device , but they absolutely did with their OS in other separately branded devices
+Now they have decided to create a less ambitious device with the Pixelbook Go
+A regular , moderately priced , hardshell laptop
+I m currently typing this on a MacBook Air with my Pixelbook right beside me , and I can personally say that the Pixelbook Go is much more Mac - esque than it is Pixelbook - esque
+I know I will be getting my hands on it as soon as possible , and will also be using that pretty new Pixel 4 s camera to record some interesting footage
+But back to the question , I think that ChromeOS is here to stay , but the success of this device might decide for how long
+I have a Laptop that does not allow Boot from a " Caddied " Disk
+I keep all my data , media , and other personal stuff in the internal drive , and the OSes are in the caddied drive - Windows ( 2 ) , Linux ( 3 )
+To permit booting from the Caddied drive , I have a small Linux Distro in the Internal drive that gives me the option to choose the OS I want to boot from , by editing the GRUB
+My question is , can I have just the bare GRUB ( instead of the full Linux Distro ) that can do the same ? If so , how do I go about it ? currently I have windows 10 installed on a cheap 32 GB ASUS laptop
+I no longer have enough room on my laptop to update the system or even use fresh start- I ve uninstalled every app and deleted every unnecessary file , but I still need more room because windows is so huge
+I ve used Linux Mint on another laptop in the past but someone else installed it for me through a cd
+but my laptop does not have a cd drive
+You may need to install a different terminal to make it reliable ( I had to install Guake ) The good thing is though , Linux distro s have real people who will actually help you , often giving you everything in a way you just need to copy and paste
+Due to this and not getting constant run around when I do have a problem , I stopped using Win10 in October 2017
+The problem with Linux forums is .. good luck getting in number one and you could be weeks awaiting an answer
+I ve used Linux in one form or another for quite a few years and have generally been able to resolve issues on my own without the aid of a forum
+Mint is the first distro that I have had issues with updates , I do n't recall this type of problem with Ubuntu / Kubuntu
+Oh well , push come to shove .. format and reload
+The new distro upgrade is due out sometime in June you might want to wait and give that a try
+I m going to run the new variant , which supposedly is Mint 20 , on a system as a test before I go all out
+I do n't blame you for going back to Kubuntu , at least for now
+The only issues I have had with Linux have been Since the inception of 19 , there have been a few issues
+My Linux systems are dedicated , I dual booted for years but decided to dedicate a couple of systems to Linux and a couple to Windows and for the most part Linux has worked out well , aside from a couple of burps
+Windows , over the years , has given me way more headaches than has Linux
+Good luck ... Hey , Thank you for your reply
+I have always had struggles with the Boot mode and secure boot settings as it does not allow me to change them , however , the boot mode is set to UEFI and the secure boot mode is disabled
+I took it to a tech
+awhile hack to have ubuntu installed and they mentioned something about the kernel is a problem so they had to install ubuntu 16.04 , however , since then this laptop no longer has any OS running
+The link you provided is for the E 15 , however , mine is an ES 15
+Since you ca n't disable the UEFI and move to a classic BIOS then all bets are off this will ever run on this laptop
+I provided the link because it was the clearest response I ve seen about disabling UEFI on the Acers
+If you ca n't do this then as it stands this laptop is currently incompatible with this OS
+Wo n't be the first time , wo n't be the last
+after rereading your post , it brought back awful memories of problems I had with the kernel and most other linux distros on a couple of my computers
+They would do exactly what you are describing
+It had something to do with the kernal and the video adapter
+there was some change in the kernal that affected the video
+sometimes I could get linux installed in compatibility mode and change the video driver to a third party one
+the only real fix was installing an even older version of linux or going back to win7
+Hello there I have an IBM type machine and a CD with linux mint O / S on it
+I put the CD in the machine and boot from CD but I am brough up a running O / S running off of the CD
+I do nt so any options of installing it onto my HDD First of all , if you use an Android phone or perhaps have a Facebook account , you can stop worrying now , as you can rest assured that Google has taken away more of your privacy than Windows 10 ever will
+Also do keep in mind that a lot of people , including government agencies and large corporations all around the world , do get by with Windows 10 so far
+Please note ! this app is NOT meant to watch or stream any movies and tv shows
+" I can hardly call that a movie player like Netflix
+I m afraid the OP means the APK with a space in the name that shows all the latest high - quality TV shows and movies ( without mentioning any country , so probably from all countries )
+Did you find that in the store ? but I ca n't see your full screen where on the desktop top left would be the usual Computer , Home and Install Linux Mint
+I m left with no way to test your distro
+I am very passionate about watching football channels
+Recently , the ThopTV application is being used by a lot of people to watch movies and TV channels for free so I would love to install it too
+Now I want to ask you how to install ThopTv for android ? I bought an unlocked Galaxy S20 and put it on the Good2Go Mobile n / w ( uses AT&T ’s n / w )
+Apparently I ’m unable to use wifi calling on G2 G ’s n / w because of AT&T restrictions
+Question : what if I bought an AT&T locked phone and then unlocked it – would I be able to use the wifi calling feature on the G2 G n / w ? The IMEI would ( should ? ? ) be registered w / AT&T … wondering if this would work or if AT&T would again block the feature since it would not be directly on their network
+The issue is that the Wifi calling is considered a premium service and not supported on Good2Go Mobile
+They do not own their own network or towers and merely lease network access
+The solution is to start a monthly plan on At&t and not a prepaid / MVNO
+You could port your current phone
+Thanks your advice R Proffit
+Ironically , I use Google Voice w / my home phone ; I have an Obihai VOIP system that I set up many years ago and it s worked very well
+I ve also considered installing a picocell in my house but from what I ve read , they re all carrier - specific , which would lock me into one of the large carriers , such as AT&T. I m with Good2Go Mobile for two reasons : 1 ) CHEAP ! $ 20/ mo for 3 G of data and unlimited talk/ text
+( I m retired so I need to watch how I spend my shekels ) 2 ) they use ATT s n / w which covers my physical home location - I m WAY out in the country and TMobile , Sprint or VZW do n't have " adequate " service Hi , I ’m new to this site
+Firstly I do n’t know if I ’m on the right page here , but could anyone please kindly help me
+I ’ve been using an app on my phone I ’ve had it a week now it worked fine and all of a sudden I keep getting a message saying that VPN is detected , I do n’t have this and do n’t even know how to use this , however if I use my phone with the app on a different network like in Asda store it works without no problems and no VPN Detection
+Could anyone please help or alternatively direct me to any kind of forums or any other forms of help
+Much appreciated .. Hi , thanks for getting back to me
+Is it possible then that my internet provider has put a VPN on my network because I was under the impression that this was something that you have to do yourself
+The certain app I use will not open on my home network but if I try and use it for example in a WiFi hotspot like a shopping centre with free WiFi it works with no problem
+Is there away that I would be able to tell if my network has had this VPN put on with out me knowing
+Thanks again I have a photo collection of different genres , I want to edit it to make my collection perfect but I m not good at photoshop
+Therefore , I downloaded PicsArt - a photo and video editing application , but there are many features I am not as clear as how I can create a cartoon character on PicsArt ? Please help me answer this question
+While this can edit animated pictures there is no support for that on Android
+As to other pictures you can have a jpeg , png or many others as wallpaper so their is nothing new to cover here about setting an image as wallpaper on Android
+Since I m here , I ll mention that I have a new Nokia model TA1124 , from Cricket
+It s listed separately from Google products , as " custom "
+I notice I get update notices to my phone , probably direct from Nokia , and it waits for wi - fi to download
+I have one pending now , which may be a patch for Strandhogg 2.0
+Any suggestions ? Ca n't get to wifi until tomorrow
+I have Malwarebytes on PC and phone
+Well I have tried almost 10 to 15 apps for messaging , and right from Hike to Whatsapp but to my surprise I am very much impressed by Cool features of telegram and Android Message
+Have a look these post , May be these post will help you
+I long time use Facebook messenger apps for android mobile phone
+it use is simple
+no need high guideline
+just install and connect
+but If you use official , you can try Telegram
+Hello everyone , today I have just installed the new version of netflix apk 7.53.2 on my samsung note9 phone
+I do not know how to turn off audio description on netflix
+Does anybody know ? Help me
+Thanks everyone
+The first time I got the message it did give me a update yo install
+I installed it and it changed my whole phone
+Even after that i ve still been receiving the same text
+Just no software update
+What can I do to uninstall the update or whatever it is to get my phone back to normal ? I , too , have a ZTE phone from Safelink and have been getting these texts since at least January - but in the last month or so they ve been coming in a couple times a week
+That s what made me suspicious enough to Google it , which led me here
+I m mortified and ashamed to admit I ve just been texting " Install " each time ... any suggestions to make sure I have n't done anything horrible ? Sometimes avoiding OS updates can prevent certain applications from working properly on the device when the developer no longer offers backward support for older Android versions
+Got ta weigh both options
+Personally I did n't hesitate to update my Samsung Galaxy S9 + when OS 10 was available and have not regretted the decision in any way
+Just sayin ...... 1
+Updating my Win8 to Win8.1 via Windows Store
+Updating Win8.1 to Win10 by using Windows update and Win10 Reservation tool ? Will Win10 reservation option appear when i ll install all updates ( using Windows Update ) ? I would appreciate any help / advice
+Thanks in advance
+Link not needed , removed
+Looking for a way to get rid of the Android bar while watching live video to TV
+I m using the default app on my Galaxy S9
+I did it once accidentally and ca n't figure out how to turn it off ( nope , does n't pull down )
+I ve attached an example of the bar I mean
+Hoping someone has had this problem before
+There is a number of Android emulators available for PC to run not only mobile apps and games but also iOS
+Some of the popular emulators for windows are MobiOneStudios , iPadian , and App.io
+While emulators for MAC are iPadian , App.io , and Appetize.io
+By playing a game using an emulator as a gamer you will feel of its original gaming console
+Emulators come up with lots of features , specification as well as some of the more information related to the Android Emulator for PC
+Well , they forgot to tell us the users of Google Nest that their Google Assistant is so dumb that it can not handle the background sound from the TV
+The more the TV Advertisement pop up on TV the mor annoying it becomes
+‘ Hey Google ’ , can you please teach your dumb assistant to deal with your own promotional advertising so it is not interfere with our peaceful time at home
+Just teach your Google Assistant to shut up when the user does not talk to it
+What has happened to voice recognition ? Does it work or simply a fab
+Google bans Huawei : they ca n't use their services
+Let s say that the 90 days are over ... and Huawei comes out with their new version of Android
+Could n't you just manually install Google services and the Play Store , like in Fire OS ? Or not ? I need to know what are the features that make android 9 better than the android 8 ?
+If you updated your device from android 8 to android 9 what is your experience with that ?
+Eventually all applications as they get updated would stop working if your phone has an out of date version of Android
+May take more than a year , but it can happen
+Many times , patches / updates fix known issues from occurring on your phone
+I ca n't give you a specific list of items , only general risks / benefits
+Hi ! I did some updates on my Samsung Galaxy Orbit J3 and it seems my 3g/4 g is missing
+Now it s eating up all my LTE
+What can I do ? ( Total Wireless ) You will have to speak with Total Wireless for troubleshooting
+Do you know anyone in your local area who is also using Total Wireless ? If so , find out if they are having any connection issues as well
+Now I only receive the notifications
+How to figure this out ? have also this problem i even lock my facebook account by resting password via mobile which is not a good idea if anyone face this type of error please reset password via PC and put cell number in recovery
+I m in the process of buying a new phone and have so far narrowed my selection to last years Huawei Mate 20 pro and this years Huawei P30 ( not the pro version )
+As they are both excellent phones , i am having trouble deciding which one to get
+Bear in mind that both are the same price currently where i plan on buying it
+I would appreciate any advice or discussion
+Peace
+I currently have an S5 , with SOME of my music , photos and even some apps on an SD card ( a necessity with only 16 G on the old phone ) , Anyone help with the best way to transfer all this to the new G9 + with Samsung Smart Switch without screwing it up or , even worse , losing some of it in the process ? I understand it will transfer from the old phone SD card , but will it put all the info on the new phone itself , or should a new SD be inserted into the new phone and it will transfer there ? This is what I wound up doing .... Took SD card out of old phone and inserted into new phone ( with the power off )
+Turned on new phone .... let it do its thing ... used the Smart Switch to transfer from old phone to new .... it worked perfectly ( with the music , pics , etc ... staying on the card , where they were )
+The only problem I found was a few of the contact info was a bit screwed up , but easy to fix
+I m needing to replace my spouses Samsung Galaxy mega
+I need a little advise on which G7 to purchase
+The G7 verses the G7 power there would n't be games played on it nor would it be used for like utube like myself this is going to be more business oriented and phone calling / emails to text I needed some good advice for the purchase I found out the play is a gaming device which I have the g6 play and I was told for my useage the G7 would be a up grade and more to my liking so a little help with the better half device would be very greatly appreciated from someone who s more phone oriented than me
+I was leaning towards the power g7 because of that battery life for one thing and the spouse is n't that easy at times with a take easy on like a phone ha ha she s kinda do n't worry about that stuff and I like the gorilla Glass just because that s something would help
+The camera she would n't miss and utube and gaming she does n't do I just need a little help they did n't have all stuff available today like when I was kid so it s a little challenging ha ha I really appreciate your advice Since this issue has been discussed for over a decade and the priors do n't work for you is the answer " No
+" ? The most common reason for folk to tell me it s slow is they have a HDD in the PC
+We change it to SSD and what a difference
+Then again , many move to Linux
+One - year pre - paid call / text / data plan expired
+Bought another identical plan

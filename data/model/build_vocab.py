@@ -55,7 +55,7 @@ if __name__ == '__main__':
         for line in f:
             vocab_tags.update(line.strip().split())
 
-    with Path('vocab.tags.txt').open('w') as f:
-        for t in sorted(list(vocab_tags)):
-            f.write('{}\n'.format(t))
+    # with Path('vocab.tags.txt').open('w') as f:
+    #     for t in sorted(list(vocab_tags)):
+    #         f.write('{}\n'.format(t))
     print('- done. Found {} tags.'.format(len(vocab_tags)))
