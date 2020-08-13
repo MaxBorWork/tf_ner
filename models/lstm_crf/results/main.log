@@ -4,7 +4,7 @@ graph_options {
     meta_optimizer_iterations: ONE
   }
 }
-, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_protocol': None, '_eval_distribute': None, '_experimental_distribute': None, '_experimental_max_worker_delay_secs': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x7fc6b2faacf8>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
+, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_protocol': None, '_eval_distribute': None, '_experimental_distribute': None, '_experimental_max_worker_delay_secs': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x7f811abbdd30>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
 Not using Distribute Coordinator.
 Running training and evaluation locally (non-distributed).
 Start train and evaluate loop. The evaluate will happen after every checkpoint. Checkpoint frequency is determined based on RunConfig arguments: save_checkpoints_steps None or save_checkpoints_secs 120.
@@ -39,17 +39,17 @@ Use tf.where in 2.0, which has the same broadcast rule as np.where
 From main.py:82: dropout (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
 Instructions for updating:
 Use keras.layers.dropout instead.
-Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7fc6e22165f8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7fc6e22165f8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f811ab76a20>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f811ab76a20>>: AssertionError: Bad argument number for Name: 3, expecting 4
 From /home/maksim/.local/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
 Instructions for updating:
 Call initializer instance with the dtype argument instead of passing it to the constructor
-Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7fc6e22165f8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7fc6e22165f8>>: AttributeError: module 'gast' has no attribute 'Num'
-Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7fc6a4774240>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7fc6a4774240>>: AttributeError: module 'gast' has no attribute 'Num'
-Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7fc6a4729fd0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7fc6a4729fd0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f811ab76a20>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f811ab76a20>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810c391cc0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810c391cc0>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810c39f550>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810c39f550>>: AssertionError: Bad argument number for Name: 3, expecting 4
 From main.py:96: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
 Instructions for updating:
 Use keras.layers.dense instead.
-Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc6a3f31978>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc6a3f31978>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f810c39f550>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f810c39f550>>: AssertionError: Bad argument number for Name: 3, expecting 4
 From main.py:97: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
 
 From /home/maksim/.local/lib/python3.6/site-packages/tensorflow/contrib/crf/python/ops/crf.py:567: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
@@ -74,4 +74,441 @@ Graph was finalized.
 Running local_init_op.
 Done running local_init_op.
 Saving checkpoints for 0 into results/model/model.ckpt.
-loss = 78.16506, step = 1
+loss = 88.596344, step = 1
+global_step/sec: 5.77976
+loss = 8.805406, step = 101 (17.303 sec)
+global_step/sec: 5.79063
+loss = 9.523231, step = 201 (17.268 sec)
+global_step/sec: 5.74151
+loss = 7.7873077, step = 301 (17.417 sec)
+global_step/sec: 5.88823
+loss = 6.3337307, step = 401 (16.984 sec)
+global_step/sec: 5.6362
+loss = 7.0662637, step = 501 (17.742 sec)
+global_step/sec: 5.88481
+loss = 2.7129312, step = 601 (16.993 sec)
+Saving checkpoints for 683 into results/model/model.ckpt.
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810b8a2a58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810b8a2a58>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810b8a2a58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810b8a2a58>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810b8d7b00>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810b8d7b00>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f811afa68d0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f811afa68d0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f811afa68d0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f811afa68d0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Done calling model_fn.
+Starting evaluation at 2020-08-13T12:35:44Z
+Graph was finalized.
+From /home/maksim/.local/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1276: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+Restoring parameters from results/model/model.ckpt-683
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2020-08-13-12:35:45
+Saving dict for global step 683: acc = 0.973301, f1 = 0.87500006, global_step = 683, loss = 1.2328383, precision = 0.89361703, recall = 0.85714287
+Saving 'checkpoint_path' summary for global step 683: results/model/model.ckpt-683
+From /home/maksim/.local/lib/python3.6/site-packages/tensorflow/python/summary/summary_iterator.py:68: tf_record_iterator (from tensorflow.python.lib.io.tf_record) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use eager execution and: 
+`tf.data.TFRecordDataset(path)`
+global_step/sec: 4.81062
+loss = 4.216522, step = 701 (20.788 sec)
+global_step/sec: 5.82472
+loss = 4.614173, step = 801 (17.168 sec)
+global_step/sec: 5.69137
+loss = 5.3204894, step = 901 (17.571 sec)
+global_step/sec: 5.76005
+loss = 2.665749, step = 1001 (17.361 sec)
+global_step/sec: 5.70168
+loss = 4.256051, step = 1101 (17.539 sec)
+global_step/sec: 5.80023
+loss = 2.69665, step = 1201 (17.241 sec)
+global_step/sec: 5.63584
+loss = 1.5273511, step = 1301 (17.743 sec)
+Saving checkpoints for 1355 into results/model/model.ckpt.
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d4399978>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d4399978>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d4399978>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d4399978>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d43acd68>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d43acd68>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d430df60>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d430df60>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d430df60>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d430df60>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Done calling model_fn.
+Starting evaluation at 2020-08-13T12:37:44Z
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-1355
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2020-08-13-12:37:45
+Saving dict for global step 1355: acc = 0.9854369, f1 = 0.9375, global_step = 1355, loss = 0.58368284, precision = 0.9574468, recall = 0.9183673
+Saving 'checkpoint_path' summary for global step 1355: results/model/model.ckpt-1355
+global_step/sec: 4.85546
+loss = 1.7035935, step = 1401 (20.596 sec)
+global_step/sec: 5.75041
+loss = 1.6471218, step = 1501 (17.390 sec)
+global_step/sec: 5.71683
+loss = 1.6548331, step = 1601 (17.492 sec)
+global_step/sec: 5.54249
+loss = 1.4987439, step = 1701 (18.042 sec)
+global_step/sec: 4.6648
+loss = 2.31219, step = 1801 (21.437 sec)
+global_step/sec: 4.32837
+loss = 2.0354147, step = 1901 (23.103 sec)
+Saving checkpoints for 1977 into results/model/model.ckpt.
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f8108035f28>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f8108035f28>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f8108035f28>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f8108035f28>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810804bc50>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810804bc50>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d4882f98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d4882f98>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d4882f98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d4882f98>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Done calling model_fn.
+Starting evaluation at 2020-08-13T12:39:44Z
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-1977
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2020-08-13-12:39:45
+Saving dict for global step 1977: acc = 0.9878641, f1 = 0.93877554, global_step = 1977, loss = 0.37857932, precision = 0.93877554, recall = 0.93877554
+Saving 'checkpoint_path' summary for global step 1977: results/model/model.ckpt-1977
+global_step/sec: 5.00537
+loss = 1.4991474, step = 2001 (19.979 sec)
+global_step/sec: 4.68446
+loss = 1.7252823, step = 2101 (21.347 sec)
+global_step/sec: 6.96035
+loss = 0.7855215, step = 2201 (14.367 sec)
+global_step/sec: 7.75403
+loss = 1.3055598, step = 2301 (12.896 sec)
+global_step/sec: 4.98156
+loss = 1.2402375, step = 2401 (20.074 sec)
+global_step/sec: 4.54523
+loss = 1.4416258, step = 2501 (22.001 sec)
+Saving checkpoints for 2582 into results/model/model.ckpt.
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810b8d7ef0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810b8d7ef0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810b8d7ef0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810b8d7ef0>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80f0397080>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80f0397080>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d46e0be0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d46e0be0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d46e0be0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d46e0be0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Done calling model_fn.
+Starting evaluation at 2020-08-13T12:41:45Z
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-2582
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2020-08-13-12:41:46
+Saving dict for global step 2582: acc = 0.9951456, f1 = 0.98, global_step = 2582, loss = 0.20699605, precision = 0.9607843, recall = 1.0
+Saving 'checkpoint_path' summary for global step 2582: results/model/model.ckpt-2582
+global_step/sec: 3.52493
+loss = 1.2626832, step = 2601 (28.370 sec)
+global_step/sec: 5.60344
+loss = 1.4427955, step = 2701 (17.846 sec)
+global_step/sec: 7.43887
+loss = 0.95598334, step = 2801 (13.443 sec)
+global_step/sec: 8.03889
+loss = 0.40207785, step = 2901 (12.439 sec)
+global_step/sec: 6.24419
+loss = 0.8600771, step = 3001 (16.015 sec)
+global_step/sec: 7.47484
+loss = 0.62446344, step = 3101 (13.378 sec)
+global_step/sec: 7.646
+loss = 0.53525674, step = 3201 (13.079 sec)
+global_step/sec: 7.22775
+loss = 0.45577964, step = 3301 (13.835 sec)
+Saving checkpoints for 3395 into results/model/model.ckpt.
+From /home/maksim/.local/lib/python3.6/site-packages/tensorflow/python/training/saver.py:960: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d4363dd8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d4363dd8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d4363dd8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d4363dd8>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80f03c8c50>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80f03c8c50>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80b7fed860>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80b7fed860>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80b7fed860>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80b7fed860>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Done calling model_fn.
+Starting evaluation at 2020-08-13T12:43:44Z
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-3395
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2020-08-13-12:43:44
+Saving dict for global step 3395: acc = 0.9951456, f1 = 0.98, global_step = 3395, loss = 0.16576567, precision = 0.9607843, recall = 1.0
+Saving 'checkpoint_path' summary for global step 3395: results/model/model.ckpt-3395
+global_step/sec: 6.55747
+loss = 0.6063102, step = 3401 (15.250 sec)
+global_step/sec: 8.07964
+loss = 1.2333133, step = 3501 (12.377 sec)
+global_step/sec: 7.20796
+loss = 0.54847986, step = 3601 (13.874 sec)
+global_step/sec: 8.0181
+loss = 0.398571, step = 3701 (12.472 sec)
+global_step/sec: 8.02485
+loss = 0.7856367, step = 3801 (12.461 sec)
+global_step/sec: 7.27105
+loss = 0.2577466, step = 3901 (13.753 sec)
+global_step/sec: 7.08601
+loss = 0.5508707, step = 4001 (14.113 sec)
+global_step/sec: 7.33659
+loss = 0.27506608, step = 4101 (13.630 sec)
+global_step/sec: 7.79258
+loss = 0.2581889, step = 4201 (12.833 sec)
+Saving checkpoints for 4284 into results/model/model.ckpt.
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80b7742710>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80b7742710>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80b7742710>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80b7742710>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80f0289780>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80f0289780>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d46e0320>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d46e0320>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d46e0320>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d46e0320>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Done calling model_fn.
+Starting evaluation at 2020-08-13T12:45:44Z
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-4284
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2020-08-13-12:45:44
+Saving dict for global step 4284: acc = 1.0, f1 = 1.0, global_step = 4284, loss = 0.039592743, precision = 1.0, recall = 1.0
+Saving 'checkpoint_path' summary for global step 4284: results/model/model.ckpt-4284
+global_step/sec: 6.20661
+loss = 0.8522484, step = 4301 (16.112 sec)
+global_step/sec: 6.90367
+loss = 0.54491484, step = 4401 (14.485 sec)
+global_step/sec: 5.68071
+loss = 0.5610684, step = 4501 (17.607 sec)
+global_step/sec: 6.81254
+loss = 0.3311785, step = 4601 (14.675 sec)
+global_step/sec: 7.31114
+loss = 0.57632744, step = 4701 (13.678 sec)
+global_step/sec: 7.63739
+loss = 0.1733141, step = 4801 (13.094 sec)
+global_step/sec: 7.80731
+loss = 0.79367447, step = 4901 (12.808 sec)
+global_step/sec: 8.00094
+loss = 0.7788466, step = 5001 (12.498 sec)
+global_step/sec: 7.73722
+loss = 0.17382784, step = 5101 (12.925 sec)
+Saving checkpoints for 5130 into results/model/model.ckpt.
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810c353240>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810c353240>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810c353240>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810c353240>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d4a49c50>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d4a49c50>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d47a0f98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d47a0f98>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d43e02b0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d43e02b0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Done calling model_fn.
+Starting evaluation at 2020-08-13T12:47:44Z
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-5130
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2020-08-13-12:47:45
+Saving dict for global step 5130: acc = 1.0, f1 = 1.0, global_step = 5130, loss = 0.03192549, precision = 1.0, recall = 1.0
+Saving 'checkpoint_path' summary for global step 5130: results/model/model.ckpt-5130
+global_step/sec: 6.62033
+loss = 0.40864143, step = 5201 (15.105 sec)
+global_step/sec: 7.97476
+loss = 0.6046028, step = 5301 (12.539 sec)
+global_step/sec: 7.26229
+loss = 0.3319517, step = 5401 (13.770 sec)
+global_step/sec: 7.86088
+loss = 0.33036536, step = 5501 (12.721 sec)
+global_step/sec: 7.69486
+loss = 0.23417854, step = 5601 (12.996 sec)
+global_step/sec: 7.52352
+loss = 0.28492278, step = 5701 (13.292 sec)
+global_step/sec: 7.86496
+loss = 0.5152243, step = 5801 (12.715 sec)
+global_step/sec: 7.67957
+loss = 0.5197361, step = 5901 (13.021 sec)
+global_step/sec: 7.78776
+loss = 0.44986916, step = 6001 (12.841 sec)
+Saving checkpoints for 6040 into results/model/model.ckpt.
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810b775550>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810b775550>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810b775550>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810b775550>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80b7ff0b70>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80b7ff0b70>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d47a0be0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d47a0be0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d47a0be0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d47a0be0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Done calling model_fn.
+Starting evaluation at 2020-08-13T12:49:44Z
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-6040
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2020-08-13-12:49:45
+Saving dict for global step 6040: acc = 1.0, f1 = 1.0, global_step = 6040, loss = 0.013105869, precision = 1.0, recall = 1.0
+Saving 'checkpoint_path' summary for global step 6040: results/model/model.ckpt-6040
+global_step/sec: 6.37908
+loss = 0.66666794, step = 6101 (15.677 sec)
+global_step/sec: 6.58466
+loss = 0.28530923, step = 6201 (15.187 sec)
+global_step/sec: 7.44573
+loss = 0.23699884, step = 6301 (13.430 sec)
+global_step/sec: 7.77488
+loss = 0.38992158, step = 6401 (12.862 sec)
+global_step/sec: 7.88301
+loss = 0.17796631, step = 6501 (12.686 sec)
+global_step/sec: 7.89269
+loss = 0.19295272, step = 6601 (12.670 sec)
+global_step/sec: 7.90229
+loss = 0.22421913, step = 6701 (12.655 sec)
+global_step/sec: 7.50593
+loss = 0.121837236, step = 6801 (13.323 sec)
+global_step/sec: 8.10184
+loss = 0.17884597, step = 6901 (12.343 sec)
+Saving checkpoints for 6936 into results/model/model.ckpt.
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d430d438>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d430d438>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d430d438>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d430d438>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d44b7c88>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d44b7c88>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810b88bbe0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810b88bbe0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f810b88bbe0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f810b88bbe0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Done calling model_fn.
+Starting evaluation at 2020-08-13T12:51:44Z
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-6936
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2020-08-13-12:51:45
+Saving dict for global step 6936: acc = 1.0, f1 = 1.0, global_step = 6936, loss = 0.012676144, precision = 1.0, recall = 1.0
+Saving 'checkpoint_path' summary for global step 6936: results/model/model.ckpt-6936
+global_step/sec: 6.68189
+loss = 0.20259085, step = 7001 (14.966 sec)
+global_step/sec: 8.07082
+loss = 0.2562996, step = 7101 (12.390 sec)
+global_step/sec: 7.63812
+loss = 0.03650112, step = 7201 (13.092 sec)
+global_step/sec: 7.69807
+loss = 0.34687614, step = 7301 (12.990 sec)
+global_step/sec: 8.10734
+loss = 0.23046866, step = 7401 (12.334 sec)
+global_step/sec: 7.65321
+loss = 0.29882354, step = 7501 (13.066 sec)
+global_step/sec: 7.43582
+loss = 0.21507606, step = 7601 (13.449 sec)
+global_step/sec: 4.83096
+loss = 0.067166135, step = 7701 (20.700 sec)
+Saving checkpoints for 7770 into results/model/model.ckpt.
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d463f438>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d463f438>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d463f438>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d463f438>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d44b7eb8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d44b7eb8>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80f029f160>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80f029f160>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80f029f160>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80f029f160>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Done calling model_fn.
+Starting evaluation at 2020-08-13T12:53:44Z
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-7770
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2020-08-13-12:53:45
+Saving dict for global step 7770: acc = 1.0, f1 = 1.0, global_step = 7770, loss = 0.004403019, precision = 1.0, recall = 1.0
+Saving 'checkpoint_path' summary for global step 7770: results/model/model.ckpt-7770
+global_step/sec: 5.4002
+loss = 0.35740966, step = 7801 (18.518 sec)
+global_step/sec: 7.3212
+loss = 0.36224824, step = 7901 (13.659 sec)
+global_step/sec: 6.88855
+loss = 0.32253027, step = 8001 (14.517 sec)
+global_step/sec: 7.54317
+loss = 0.10417805, step = 8101 (13.257 sec)
+global_step/sec: 7.97525
+loss = 0.14649582, step = 8201 (12.539 sec)
+global_step/sec: 7.37403
+loss = 0.33805734, step = 8301 (13.561 sec)
+global_step/sec: 7.80721
+loss = 0.1562378, step = 8401 (12.809 sec)
+global_step/sec: 7.5939
+loss = 0.09907663, step = 8501 (13.168 sec)
+global_step/sec: 7.93809
+loss = 0.17390451, step = 8601 (12.597 sec)
+Saving checkpoints for 8657 into results/model/model.ckpt.
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810b70d048>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810b70d048>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810b70d048>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810b70d048>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d42867b8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d42867b8>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d47b01d0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d47b01d0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d47b01d0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d47b01d0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Done calling model_fn.
+Starting evaluation at 2020-08-13T12:55:44Z
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-8657
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2020-08-13-12:55:45
+Saving dict for global step 8657: acc = 1.0, f1 = 1.0, global_step = 8657, loss = 0.0040064813, precision = 1.0, recall = 1.0
+Saving 'checkpoint_path' summary for global step 8657: results/model/model.ckpt-8657
+global_step/sec: 6.53933
+loss = 0.2614399, step = 8701 (15.292 sec)
+global_step/sec: 7.6306
+loss = 0.21889572, step = 8801 (13.106 sec)
+global_step/sec: 7.52089
+loss = 0.06808968, step = 8901 (13.296 sec)
+global_step/sec: 7.41832
+loss = 0.27632424, step = 9001 (13.480 sec)
+global_step/sec: 7.66544
+loss = 0.37345162, step = 9101 (13.046 sec)
+global_step/sec: 7.57914
+loss = 0.03297777, step = 9201 (13.194 sec)
+global_step/sec: 7.57547
+loss = 0.1980011, step = 9301 (13.201 sec)
+global_step/sec: 7.70383
+loss = 0.1806076, step = 9401 (12.980 sec)
+global_step/sec: 7.63943
+loss = 0.119148254, step = 9501 (13.090 sec)
+Saving checkpoints for 9549 into results/model/model.ckpt.
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d4c65710>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d4c65710>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d4c65710>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d4c65710>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810b7ec470>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f810b7ec470>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810b61ea90>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810b61ea90>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f810b61ea90>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f810b61ea90>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Done calling model_fn.
+Starting evaluation at 2020-08-13T12:57:44Z
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-9549
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2020-08-13-12:57:45
+Saving dict for global step 9549: acc = 1.0, f1 = 1.0, global_step = 9549, loss = 0.0019291878, precision = 1.0, recall = 1.0
+Saving 'checkpoint_path' summary for global step 9549: results/model/model.ckpt-9549
+No increase in metric "f1" for 892 steps, which is greater than or equal to max steps (500) configured for early stopping.
+Requesting early stopping at global step 9559
+Saving checkpoints for 9559 into results/model/model.ckpt.
+Skip the current checkpoint eval due to throttle secs (120 secs).
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f811afa6320>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f811afa6320>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f811afa6320>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f811afa6320>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d438c630>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d438c630>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d4109128>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d4109128>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d4109128>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d4109128>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Done calling model_fn.
+Starting evaluation at 2020-08-13T12:57:48Z
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-9559
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2020-08-13-12:57:49
+Saving dict for global step 9559: acc = 1.0, f1 = 1.0, global_step = 9559, loss = 0.0018730164, precision = 1.0, recall = 1.0
+Saving 'checkpoint_path' summary for global step 9559: results/model/model.ckpt-9559
+Loss for final step: 0.07155228.
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80f0257fd0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80f0257fd0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80f0257fd0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80f0257fd0>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d4f7d630>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d4f7d630>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810b6624e0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f810b6624e0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f810b6624e0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f810b6624e0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+From main.py:104: to_int64 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+Done calling model_fn.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-9559
+Running local_init_op.
+Done running local_init_op.
+Calling model_fn.
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d4f90f98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80d4f90f98>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d4f90f98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d4f90f98>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d4398cf8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method LSTMBlockWrapper.call of <tensorflow.contrib.rnn.python.ops.lstm_ops.LSTMBlockFusedCell object at 0x7f80d4398cf8>>: AttributeError: module 'gast' has no attribute 'Num'
+Entity <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80b77ebac8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dropout.call of <tensorflow.python.layers.core.Dropout object at 0x7f80b77ebac8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d4836908>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7f80d4836908>>: AssertionError: Bad argument number for Name: 3, expecting 4
+Done calling model_fn.
+Graph was finalized.
+Restoring parameters from results/model/model.ckpt-9559
+Running local_init_op.
+Done running local_init_op.

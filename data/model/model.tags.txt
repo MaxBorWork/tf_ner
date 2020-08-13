@@ -523,3 +523,666 @@ O O O O U-hard O O O O
 O O O O O O U-soft
 O O O O O O O O O O O O O
 O O O O
+O O U-hard O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O
+O O O
+O O O O O O O O O O
+O U-soft O O O U-soft O O O O O O O O
+O O O O O O O O
+O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O U-soft O O O B-soft L-soft O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-soft O O O O O O O B-soft O O O O O O O B-soft L-soft O B-soft L-soft
+O B-soft L-soft O U-soft O O O O O O O O O O O U-soft O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O U-soft O O O O O O O O O B-soft L-soft O B-soft L-soft
+O O O O B-soft L-soft
+O B-soft L-soft O O O O O B-hard I-hard L-hard
+O O O O O O O O O
+O O O O O O O O
+O B-soft L-soft O O O O O
+O O O O O O O O O O O
+O O O O U-org O O O O O O O B-soft L-soft O O
+O O O O O O
+O O O O O O O O
+U-org O O O O O
+O O O O O O O O
+O O O O B-soft L-soft O B-soft L-soft O U-soft O B-soft L-soft O U-soft O B-soft L-soft O U-soft O B-soft L-soft O O O
+O O O O B-soft L-soft O B-soft I-soft I-soft L-soft O O B-soft I-soft L-soft O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O U-soft O O O O
+O O O O O O O O
+O O O O O O O O O O O O U-soft
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O
+O O O O O O U-org O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O U-soft O O O O O O O O O O U-org O O O O O O O O O O O O O O O O O O O O O O U-org O O O B-soft L-soft O O O
+O O O O O O O U-soft O O O
+O O O O O O O
+O O O O O B-soft L-soft O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-soft L-soft O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O B-soft L-soft
+O O O O O O
+O O O O B-soft I-soft L-soft O O O O B-soft L-soft O O O O O O O
+O O O O O O O O O O O O O O O O O B-soft L-soft
+O O O O O O O O O O B-soft I-soft I-soft I-soft L-soft O O O O O
+O O O O O O O O O U-soft O O
+U-soft O O O O O O O O O O O O
+O O O O U-soft O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-soft L-soft
+O O O O B-soft L-soft O O O O O O O O O O O O O O O U-soft
+O O O U-soft O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O U-soft O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O U-soft O O U-soft O U-soft O U-soft O O O O O O O O
+O O O O U-soft O O O O O O O O O O O O U-soft O U-soft O O O O O O O O O O O O U-soft
+U-soft O O O O O O O O O O O O O O O O O O O O U-soft
+O O O O O U-soft O O O O O O O O O O O B-soft L-soft O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O U-soft O O O O O O
+O O O O U-soft O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-soft L-soft O O O O O O O
+O O O O U-soft O O O O O O O O O O O O O
+O O O O O O O O O O B-hard I-hard L-hard O O O O O B-hard I-hard I-hard L-hard O O O O O O O O B-hard L-hard
+O O O B-soft L-soft O U-soft O O U-hard
+O O O O O O B-soft L-soft O O O O B-soft L-soft O O O O
+O O O O O U-soft O U-soft O O U-org O O O O O O
+O B-soft L-soft O O O O O O O O U-soft O O O O O O O
+O O O O O O O U-soft O O U-hard O O O O U-org U-soft O O O O O O O O O O
+O O O O O O U-soft O O O O O U-soft O O O O
+O O O O O O O O O O O U-soft
+O O O O O O O O B-soft L-soft O O O O O O O O
+O O O O O O O O O U-soft O O O O O B-soft L-soft O O O O U-soft O O O B-soft L-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-soft L-soft O O O O O O O O O O O U-soft
+O O B-soft L-soft O O O O U-hard O O O O
+O O O O O O O U-soft O O O O B-soft L-soft
+O O O O O O U-org O O U-soft O O O O
+O O O O O O O O U-soft O O O O O O O
+O O O O O O O
+O O O O O O O O O U-soft
+O O O O O O O O U-org O U-soft
+O O O O O O O O O B-soft L-soft O O O O O U-org O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O U-org O O O O O O O O O O O O O O O O O O O O O U-org O O
+O O O O O O O O O O O O B-soft L-soft O O
+O O B-soft L-soft O O O O O O O
+O U-org O O O O O O O O O O B-soft L-soft O O O O
+O O O O O O O O O O O O
+O O O O
+O O O U-soft O O O O O O O O
+O O O O O O O O O O O O O O B-soft L-soft
+O O O O O O O O O O O O O
+O O O O O O O O O O O O U-soft O U-soft O O O O O O O O O
+O O O O O O O O O
+O O O O O O O O B-soft I-soft L-soft O O O O O O O O
+O O B-soft L-soft O B-soft I-soft I-soft L-soft
+O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O U-soft O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-soft I-soft L-soft
+O O O O O O O U-soft O O O O O O O O O U-soft O O O O O
+O O O O O O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O U-soft O U-soft O O O O O O O U-soft
+O O U-soft O O O O U-soft
+O O O
+O O O B-hard L-hard O O U-soft O O U-soft O U-soft
+O O O O O U-soft O O U-soft O U-soft
+U-soft O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O U-soft O O O O O O O O O O O O O O O O
+O O O O O O O O
+O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O U-soft O U-soft O O B-soft L-soft O B-soft L-soft O U-soft O O O O O B-soft L-soft O B-soft L-soft O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O U-soft O U-soft O U-soft O U-soft O B-soft L-soft O O O O O O O O O O O O O O O O O O
+O O O O O O O O O U-soft O B-soft L-soft O U-soft O U-soft O U-soft O O U-soft O O O O O O O O O O O
+O O O O O U-soft O U-soft O O O O O
+O O O O O O B-soft L-soft O O O O O O O O
+O O O O O O O O O U-soft O O O O O U-org
+O O O O O O O O
+O O O O O O O O O B-soft L-soft O O O O B-soft L-soft O O
+O O O O O O O U-org O O O O O U-soft O O O O O O O O O O U-soft O O O O O
+O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O
+O O O O O U-soft O O O U-soft
+O U-soft O O O O O O O O O O O O U-soft O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O B-soft L-soft O O O O O O O
+O O O O O O O O O U-soft O O B-soft L-soft O U-soft O O O O O O O O O O O O O O U-soft
+O O O B-soft L-soft O O O O O
+O O O O O O O O U-soft O O O O O O O
+O O O O O O O U-soft O O O O
+O O O O O O O O O O O O O O
+O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O B-soft L-soft
+O O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O O
+O O O O O O O O
+O O O O O O O O O O O O O O U-soft O O O O U-soft O
+O O O O U-soft
+U-soft O O O O O O O O O O O O O O O O O O O O O
+U-soft O O O O O O O O O O O O O O O O O O O O O O O O O O B-soft L-soft O O O O U-soft O O
+O O O O O U-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O U-soft O O O O O O O O O O
+O O O B-soft L-soft O O O O O O O O O
+O O O O O O O O
+O O O O O O O O U-soft O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O U-soft
+O O O O O O O O O U-soft O O O
+O O O O O O O O O O
+O O O U-soft O U-soft O O O U-soft O U-soft O U-soft O O O O O O O O O O O O O O O O O B-soft L-soft
+O O U-soft O O O O O O O O O U-soft O O O
+O O O O O O O O O O O O O O O O O O O O O O O U-soft O O O O U-soft O O O O O
+O O O U-soft O O O O O B-soft L-soft O O O O O O O O O O O O O O O O O O O O O O O O O O U-soft O O O
+O O O O O O O O O O O O O O O O O O O O
+U-soft O O O O O O O
+O O O O O O O O O B-soft L-soft O O O O O O B-soft L-soft O O O O O O O U-soft O O O O O O O O O L-soft
+O O O O O O O O B-soft L-soft O O O O O O O O O O O O O L-soft
+O O O O U-soft O O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O U-soft O O O O O O O O O O O O O O U-soft O O O O B-soft L-soft O O O U-soft O O O O U-soft O O O O O O O O O B-soft L-soft O
+O O O O O O O B-soft L-soft O O O O O O O O U-soft O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O U-soft
+O O O O O O O O O O O O O O O O O O O U-org O O O O O
+O O O O O O O O O O O B-soft L-soft O O O O O O O O O O O O O O O O O O
+O O O O O O O O O
+O O O O O O O O O O O O O O B-soft L-soft O O O O O O O O O O O U-org O U-org O U-org O U-org O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O
+O O O O O O
+O O O O O O O O U-soft O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-soft I-soft L-soft
+O U-soft O O O O O O O B-soft L-soft O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O U-hard O O O O O O O O O O O O O O O O O O O O
+O O O O O O O U-soft O O O O O O O O O O O O O O
+O O O O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O O O O U-soft O O O B-soft L-soft O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O B-soft L-soft O O O O O O
+O O O O O U-soft O U-soft O B-soft L-soft O O U-soft
+O O O O O O O O B-soft L-soft O O O O O O O O O O O B-soft L-soft O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O B-soft L-soft O O O O O O O O O U-soft O O O O O O O
+O O B-soft I-soft O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O U-soft O O O O O O
+B-soft I-soft L-soft O O O O O B-soft L-soft O
+O O O O O O O O O O O O O O O
+O O O O O O O U-org O O O O O O O B-soft I-soft L-soft
+O O
+B-soft L-soft O U-soft O O O O O O O O O O O O O O O
+O O O O O O O O B-soft L-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O O O O O O O O U-soft
+O O O O O U-soft O O O O O O
+O O O O O O O O O O O O O O O O O O U-soft
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O U-soft O U-soft O O O O O O O O O O O
+O O O O O U-soft O O O O O O O O O O O O O O O O O
+O O O O O O O B-soft I-soft I-soft L-soft O O O O O O O O B-soft I-soft I-soft L-soft
+O O O O O O O O O B-soft L-soft O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-soft L-soft O O O O
+O O O U-soft O U-soft O O O O O O O O O O O U-soft O U-soft O O O O O O O O O O O O O
+U-soft O U-soft O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O B-soft L-soft O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O U-soft O O O O O O O O O O O O O O O O U-soft O O O
+O O U-org O O O O O O U-soft O O U-soft O O O O O O O O O
+O O O O U-soft O O O O O O O O O O
+O O O O O O O O O O O O B-soft I-soft L-soft O O O O O O O O O O O O O O O O O O O B-soft I-soft L-soft
+O O O O O O O O O O O O O O O O O O O O O
+O O B-soft L-soft O O O O O O O
+O O B-soft L-soft O U-org O O O O O O U-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-soft L-soft O O O O O O O O O O O O O O B-soft I-soft L-soft O O O O O O O O O O O O O O O O O O O O
+O O B-soft I-soft L-soft O O O O O O O O O O O U-soft O O U-soft
+O O O U-org O B-soft L-soft O O O B-soft I-soft L-soft O U-org O O O O O O O O O O O O O U-soft O
+O O O O O O O O B-soft L-soft O O O O O O B-soft I-soft L-soft O O O O O O O O O O O U-soft O O O O O O O O O O O O O B-soft I-soft L-soft O O O O O O O O O O O O O O B-soft L-soft O O O O O O O O O O O O O O O O O O O O O O O U-org O O O O O O O O O O U-org O O
+O O O O O O O O O O O O
+O O B-soft L-soft O O B-soft L-soft O O O O O O O O O O O O O U-hard O O O O O O O O O O O O O O O O O
+O O O O O O O
+O O O O O O B-soft L-soft
+O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O B-soft L-soft
+U-org O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O U-org O O O O O
+O O O O O O O O O O O B-soft O O O O O
+O O O O O O O B-soft L-soft O O O O O O O O O O O O O O O O O O B-soft L-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-soft L-soft O O O O
+O O O O O O O O O O O O O O O O O O B-soft L-soft O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O U-org O U-org O O O O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O U-soft O U-soft O U-soft O U-soft O U-soft O U-soft
+O O O O O O
+O O O O O O O O O O O
+O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+B-soft L-soft O O O O O O O O O O O O O O O O O O O O B-soft L-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O U-soft O O O B-soft L-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-soft L-soft O O O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O U-soft O O O O O O O O B-soft L-soft
+O O O O O O O O O O O O U-soft O U-soft O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-soft I-soft L-soft O O O O O O O O O O O O O
+O O O
+O O O O U-soft O O O O O O O O O B-soft L-soft O O O O O O O O O O
+O O O O O O O O O
+O O O O O O O B-soft L-soft O O O O O O O O O O O O U-soft O O O O O O U-soft O U-soft O O O O O O O O O O
+O O O O O O O O O O O O U-soft O O O O O
+O O O O O O O O O O O O O O
+O O O O O O
+O O U-soft O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-soft L-soft O O O O O B-hard I-hard I-hard I-hard I-hard L-hard O U-hard O B-soft I-soft L-soft O
+U-soft O B-soft L-soft O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O B-hard I-hard I-hard L-hard O O O O O U-org O O B-hard I-hard L-hard O O O O U-hard O U-hard O O U-soft
+O O O O O O O O O O O
+B-soft L-soft O O O O O O O O O O
+O O O O O O O O U-hard O O O O O U-soft O O O O O O O O O U-soft O O O O O O O
+O O O U-org O O O O O O U-hard
+O O O O O O O B-soft I-soft L-soft O O O O O O
+O O O O O O O O O O O O O O O O B-soft L-soft
+O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O
+O O O O O O O O O
+O O O U-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O
+O O O O O O O O O U-soft O O O O O O O
+O O O O O O O O U-soft O O O O O O O O O O O O O U-soft O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+U-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O
+U-soft O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O U-org O O U-soft
+O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-soft L-soft
+O O O O B-soft L-soft O O O O O O O O O O O O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+U-org O O O O O O O O O O O O O O
+O O O O O O O
+O O O U-soft O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O U-soft O O O O O O O O B-soft I-soft L-soft O O O O O O O O O O O O O O O O O O O O O O O O O O U-soft O O O O O O U-soft O U-soft O O O O O O O O O O O O O O O O O U-soft O O O O O O O O
+O O O O U-soft O O O B-soft L-soft O U-soft O O O O O O O O O O O O
+O O U-soft O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O U-hard O O O O O O O O O O O O O O O O O O O O U-hard O O B-hard L-hard O O O O O O O
+O O U-hard O O O O O O B-hard I-hard I-hard I-hard I-hard L-hard O U-org O B-hard I-hard I-hard I-hard I-hard L-hard O B-hard I-hard I-hard I-hard L-hard O B-hard I-hard I-hard I-hard L-hard
+O O O O O O O O O O O O O O U-hard O O O B-hard L-hard O O
+O B-hard L-hard O O O O O O O U-org O O O O O O O O O O O O U-hard O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O U-hard O O O O O
+O O O O O U-hard O B-hard L-hard O O U-hard O O O O O O O O O O O O O
+O O O B-hard L-hard O O O O O
+O O U-hard O O O O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O U-soft O O O O O
+O O O O O O O O O O O O U-hard O O O
+O O O
+O O O O O O B-hard I-hard L-hard
+O O O O O O O O
+O O O O O O O O O O O B-soft L-soft O O O O O O O O O O B-hard I-hard L-hard O O
+O O O O O O O U-hard O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O B-hard L-hard O O B-hard L-hard O O O O O O O O O O O O O O O B-hard I-hard I-hard I-hard L-hard O O O O O O O O O O O O O O O O O O O B-hard I-hard I-hard L-hard O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O
+O O O O O O O O O O O O O O B-hard I-hard I-hard L-hard
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-hard L-hard O B-hard L-hard
+O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O U-hard O U-hard O B-hard I-hard I-hard I-hard L-hard O O O O O O O O B-hard I-hard L-hard O U-hard O B-hard I-hard L-hard O O O O O O
+O O O O O U-hard O O O O O O O O B-hard L-hard O O O O O
+O U-hard O O O O O O O O O O O O O O O
+O O U-org O O O O O O U-hard O O O O O U-hard
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O U-hard O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O U-org
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-soft L-soft O B-soft I-soft L-soft
+O O O O O O O
+O O O O O O O O
+O O B-hard I-hard L-hard O B-hard L-hard O B-hard L-hard O O O
+O O O O O O O O O O O O O O O
+O O B-hard L-hard O U-hard O B-hard I-hard I-hard I-hard I-hard L-hard O B-hard I-hard I-hard L-hard O U-hard O B-hard I-hard I-hard I-hard I-hard L-hard O O O O O O O O O O O O U-hard O B-hard I-hard I-hard I-hard I-hard I-hard I-hard L-hard O U-hard O B-hard I-hard I-hard I-hard L-hard O O O B-hard I-hard L-hard O U-hard O B-hard I-hard L-hard O U-hard O B-hard I-hard I-hard L-hard O O O B-hard I-hard I-hard L-hard
+O O O O O O O O O O O O O O O O O O O
+O O O B-hard L-hard O O O O O O O B-hard L-hard O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-hard I-hard I-hard L-hard O B-hard I-hard I-hard I-hard L-hard O B-hard I-hard L-hard O B-hard I-hard I-hard I-hard L-hard
+O O O O O O O O B-hard L-hard O O O O O B-hard L-hard O O O O O O O O O B-hard L-hard O
+O O O O O O O O O
+O O O O O O O O O
+O O O O O O O O O B-hard L-hard O O O O O O O O
+O O O O O O O O O O O O O U-hard O B-hard L-hard
+O O O O B-hard I-hard L-hard O B-hard L-hard O O O O O O O O O O O O O O O O O O O O
+O O O B-hard L-hard O O O O O B-hard L-hard
+O O O O O O
+O O O O O O O O O O O O
+O O
+O O O O O O O O O O
+O O O O O B-hard L-hard O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-hard I-hard I-hard L-hard
+O O O O O O O O O O O O O O O O O U-org O B-hard L-hard O O B-hard I-hard I-hard L-hard O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-hard L-hard O O O
+O O O O B-hard I-hard L-hard O O B-hard I-hard L-hard
+O O O O B-soft I-soft L-soft O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+O O U-hard O B-hard I-hard I-hard I-hard I-hard I-hard L-hard O U-hard O B-hard I-hard I-hard L-hard U-hard O U-hard O B-hard I-hard L-hard O U-hard O B-hard L-hard O U-soft O B-soft I-soft I-soft I-soft L-soft O U-soft O O O O O O O O O U-hard O B-hard I-hard I-hard I-hard I-hard I-hard I-hard I-hard I-hard I-hard L-hard O O O B-soft L-soft
+O O O O O O O
+O O O O O O O O O O O B-hard L-hard O B-hard I-hard L-hard O O O O O U-hard
+O O O O O O O O O O O O O O O B-hard I-hard L-hard O
+O O O O B-hard I-hard L-hard O O O O O O O O O B-hard L-hard O O O O O O U-hard O
+O O O O O B-hard I-hard L-hard O O O O O O O O
+O O O O O O O O O O U-hard O O O O O O O O O O O
+O O O O O O O O O U-soft O O O O O O O
+O O O O O O O O
+O O O O O O U-hard O O O O O O O O U-hard O O O
+O O U-hard O O O O O O O O
+O O O B-hard I-hard I-hard L-hard O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O U-hard O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O U-soft O
+B-hard L-hard O B-hard I-hard L-hard O B-hard I-hard L-hard O B-hard I-hard L-hard O B-hard L-hard
+O O O U-soft O O O O O O O O O
+O O O O O O O O O O O O O
+B-hard L-hard O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O
+O O O O O B-hard I-hard I-hard I-hard L-hard O O O O O O O O O O B-hard I-hard I-hard L-hard O O O O O
+O O O O O O O O O O O O O O O O O O O B-hard I-hard I-hard L-hard O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O U-hard O O B-hard I-hard I-hard L-hard O O O O O O O O O O O O O L-hard O O O O O O O O O O B-hard I-hard L-hard
+O O O O O B-hard L-hard O B-hard L-hard O O O U-hard O O O O O O O O O O O U-hard O O O O O O O O O O O U-hard O O O B-hard L-hard O O O O O O O O O O O O O O O O O O O O O B-hard L-hard O O O O O O O O O O O O
+O O O O O O O O O O O O O B-hard L-hard O O O O O U-hard O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O U-hard O O O O O O O O O O O O B-hard L-hard O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O B-hard L-hard O O O O O O O O O O O U-hard O O O O O O O
+O O O O O O O O O O O O O
+O O O B-hard I-hard I-hard L-hard O O O O
+O O O B-hard I-hard L-hard O O
+O O O B-soft I-soft L-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O U-hard O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O U-soft O O O O O O O O U-soft O O O O O O O O U-hard O O U-hard O O
+O O O O O O O O U-hard O O O O O O O O
+O O O B-soft L-soft O O O O O O B-hard I-hard L-hard O O B-hard L-hard
+O O O O O O O O O O O O U-soft O O O O O O O U-soft O O O O O O O O O O O O O O O O
+O O O O U-hard O O O O O O U-soft O O O O O
+O O O O O O O O U-hard
+U-hard O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-soft L-soft O O
+O O O O O O O O O U-soft O
+O O O O O O O O O O O O
+O O O B-hard L-hard O O O O O O O O O
+O O O O O B-hard I-hard L-hard
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O
+O O O O U-hard O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O U-soft O O
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O U-hard O O O O O O U-hard O O O O O O O O O O O O O
+U-hard O O U-soft O O O O O O U-soft O O O O O O O O O O O O O O
+O O O O O O O O O
+O U-hard O O O O U-soft O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-hard I-hard L-hard
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+U-hard O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-hard L-hard O O
+O O O O O O O B-soft L-soft O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O
+O U-hard O O O O O O O O U-hard O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O B-hard L-hard
+O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O U-soft
+O O O O O O O O O O O O O O
+O O O O O O O
+O O O O O O O O B-hard I-hard I-hard L-hard O O O O O B-hard L-hard O B-hard I-hard I-hard I-hard I-hard I-hard L-hard
+O O B-hard L-hard O O O O O O O O O B-hard I-hard L-hard
+O O
+O O O O O O O O O O O O O
+O O O O O O U-hard O O O O U-hard O U-hard O O O O O
+O O O U-hard O O O O O
+O O O O O O U-hard O O O O O O O O O O O O O O O O O O
+O O O O O O U-hard O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O U-hard O O O O O U-hard O O O U-hard O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O
+O O O O O O O O O O
+B-hard L-hard O B-hard I-hard I-hard I-hard L-hard O B-hard L-hard
+O B-hard L-hard O B-hard I-hard L-hard O B-hard I-hard L-hard
+O O O O O O O
+O O O O O B-hard L-hard O O O B-hard L-hard
+O O O O O O O
+O B-hard I-hard L-hard O O O O O L-hard O O O
+O O O O O O O O O O O U-hard O O O O O O O O O O
+O U-hard O O U-hard O O O O O O O O O O O O O O
+O O O O O O U-hard O O O O B-hard I-hard L-hard O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-hard I-hard L-hard O U-hard O B-hard I-hard I-hard I-hard L-hard O O O B-hard I-hard I-hard I-hard I-hard I-hard I-hard L-hard O U-hard O B-hard I-hard I-hard I-hard L-hard O B-hard L-hard O B-hard I-hard L-hard O O O O O O O O O O O O O B-hard I-hard I-hard L-hard
+O O O O O B-hard I-hard L-hard O O O U-hard O O O O O O O O O O O O O O
+O O O O O O B-hard I-hard L-hard
+O O O O O O U-org O O O O O O O O O O
+O O O O B-soft L-soft O U-soft O O O
+O O O O O O O O O O O O O O O O O B-hard L-hard O O O O O O O O
+O U-hard O O B-hard I-hard I-hard I-hard L-hard O O O O O O O O U-hard O O O U-hard O O B-hard I-hard I-hard L-hard
+O O O O O O O U-hard O O O O O O O O O O O O O O O
+O O O O O O O O O B-hard L-hard O O O O O B-soft L-soft O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-soft L-soft
+O O O O O
+O O O O O O O O
+O O O
+O O U-soft O O O B-soft L-soft O O O O O O O
+O O O O O O O O O O O O
+O O O O
+O O O O O O O O O O O O O O O O O O U-soft O O O U-hard O O O U-hard
+O O O O U-hard O O O O O
+O O O O O O O O O O O
+U-hard O O O O B-hard L-hard O O O O O
+O O O O O O O B-hard I-hard L-hard O O O O O O O O O O O O O O O O U-hard O O O O O O O
+O O O O O O O O O O O O O U-soft O O O O O O O U-soft O O O
+O O O O O O U-soft O U-soft O U-soft O O O O O
+O O O O O
+O O O O O O B-soft L-soft O O U-soft O O O
+O O O O O O
+O O O U-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O U-soft O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O
+O O O
+O O O O O O O O O O O O O O O O O U-hard O
+O O O B-soft L-soft O O O O O O O O O O O O O O O O
+O O O O O O O B-hard I-hard I-hard L-hard O O O O O O O O O O O O O O O O B-soft I-soft L-soft O O O O O O O O O U-hard O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+U-org O O O O O O O O O O O O
+U-org O O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O B-soft L-soft O O O O O U-soft O O O O O O O O
+O O O O O O O O U-soft O O O O O O O O O O O O O
+O O O O O O O
+O O O O O O B-hard I-hard L-hard O O O O O O O O O O O O O O O O O O O O
+O O O O O O U-org O O O O O O O O O
+O O O O O O O O O U-org O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O U-org O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O B-hard L-hard O
+O O O O O O O O O O O O O O O O O O U-soft O O O O O O O O O O B-hard I-hard L-hard O O O U-soft O O O O O O O O O O O U-soft O O O O O O
+O O O U-soft O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-soft L-soft
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-soft L-soft O O O O O O O O O O O O O O O O B-soft O O O O O O O O O O O O B-soft L-soft O O O U-hard O O O O O O O O
+O O O O O O O O O O O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O U-soft U-hard O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O U-soft O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O U-soft O
+O O O O O O O O O O O U-org O O O O O O O O O O O O
+O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+B-soft L-soft O O O O O O O O O O O O O O O
+O O O O O O O O O B-soft L-soft O O O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O U-org L-soft O O O O O O O O O O
+U-org O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O U-org O O O
+U-org O O O O O O O
+U-org O O O O O O O O O O O O O O O O O O O O O
+O O U-org O O O O O O O O O O O O O O O O
+O O O O O O O O O U-org O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O U-soft O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O U-soft O O O O O B-hard L-hard
+O O O
+O O O O O O O O O O O O O O O O O U-hard
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O
+O O O O O U-soft O O O O O O O O O O O O O U-soft
+O O U-soft O U-soft O O O O O O O O O O O O O O
+O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O U-soft O O O B-hard I-hard I-hard L-hard
+O O O O O O B-hard I-hard I-hard L-hard O O B-hard I-hard I-hard L-hard
+O O O O O O O U-soft O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O U-hard O O O O O O U-hard O O U-soft O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-soft L-soft O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O U-soft O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O U-org O O O O O O O O O O O B-hard I-hard L-hard O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O U-org O O O O O O O O O O
+O O O
+O O O O O O O O O B-hard L-hard O O O O O O
+B-soft I-soft L-soft
+O O O O O O O O O O O O O O O O O O O O U-soft O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O U-soft
+O O O O O O O O O O O O O O U-soft O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-soft O O O O O O O O O O
+O O O O O O O O O O B-soft O
+O O O O B-soft O O O O O O O O O O O O O O
+B-soft L-soft O O O O O O O O O O O O O O O
+O O B-soft L-soft O O O O O O O O O O O O
+O O O O O O O O U-soft O O U-soft O U-soft
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O U-soft O O
+O O O O B-soft L-soft O O O O O O O O O O O O O O O O O O
+O O O O O O U-soft O O O O O O O O O O
+O O O O O O O
+O O O O O O O O O O O O O
+O O O O O O O O O O O U-soft O U-soft O U-soft
+O O O O O O O O O O O O O O O O O U-hard O B-hard L-hard O B-hard I-hard I-hard I-hard L-hard
+O O O O O O O O O O
+O O O O O O
+O O O O O O U-soft O O O O O O O O O O O O O O O O O
+O O O O O O O O O O U-soft O O O O O O O O O O B-soft L-soft
+O O O O O O O O O O O O O O O U-soft O U-soft O O O O O O O O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-soft I-soft I-soft L-soft O O O O O O O O O O O
+O O O O O O B-hard I-hard I-hard I-hard I-hard L-hard O B-hard I-hard I-hard I-hard I-hard I-hard L-hard O U-hard O O O O B-hard I-hard L-hard O B-hard L-hard O B-hard L-hard O B-hard I-hard I-hard I-hard I-hard I-hard L-hard O B-hard L-hard O B-soft L-soft O O O B-hard L-hard O B-hard L-hard O O O U-hard O B-hard I-hard I-hard I-hard L-hard O O O O O O O O O O O O O O O O O O O O O O B-soft I-soft L-soft O O O O O O O O B-soft I-soft L-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-soft L-soft O O O O O O B-soft L-soft
+O O O O O O O O O O O O B-soft L-soft O B-soft L-soft O O O O O O O O O O O O O O O O O O O O O O O O O U-soft O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O U-soft O U-soft
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O U-soft O O O O O O
+O O O O O O O O O O O O O O B-soft I-soft L-soft
+O O O O O O O O O O O O O O O O
+O O O O O O O O U-hard O O O
+O O O O O O O O O O U-soft O U-soft O O O O O O O U-soft O U-soft
+O O O O O O O
+O O O O U-soft O O O O O O B-soft I-soft L-soft
+O O O O O O O
+O O U-soft O O O O O O O
+U-org O O O O O O O O O O O O U-org O U-soft O O O O U-soft
+O O O U-soft U-soft O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O U-soft O O O O O O O O O O U-soft O O O O O O U-org O O O O O O O O O U-hard O O O
+O O O U-org O O O O O O O O O O O O O O O U-soft O O O O O O O U-org O O O O U-soft O O O O U-org
+O O O O O O O O O O O U-soft O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O U-hard O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O
+U-soft O O O O O O O B-soft L-soft O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O U-org O U-org O O
+O O O O B-hard L-hard
+O O O O O O O O O O O O O O
+O O O O O B-hard L-hard O O O O O O O O O O O O O
+B-soft L-soft O O O O O O O O O O O O O O O O O O O O
+O O O O O U-soft O U-soft O O O O O O O O O O O O O O O O U-soft O O O O O
+O B-soft L-soft O O O O O B-hard L-hard O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+B-soft L-soft O O O O O O O O O U-hard O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+O U-soft O O O O O O O U-soft O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-soft L-soft O O O O O O O O O O B-soft L-soft
+O O U-soft O O O O O O O O O O O O O O O O O O O U-soft
+O O O O O U-soft O O O O O O O O U-soft O O O O O O O

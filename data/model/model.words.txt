@@ -523,3 +523,666 @@ We change it to SSD and what a difference
 Then again , many move to Linux
 One - year pre - paid call / text / data plan expired
 Bought another identical plan
+Inserted new SIM card they supplied , and activated it
+Messaging app ( texting ) displays error message saying payment options must be updated
+That s a bit strange because it s a fully pre - paid plan
+Anyway , updated my payment option at their website
+Error message persists
+Neither texting nor calling will work ; they are blocked
+Contacted FreedomPop support ( by email ) who assured me they would fix it
+After a couple of days I enquired again
+They said they would " escalate the issue "
+Six or seven days after initial contact a different support person emailed me and to say it s a pre - paid plan and I should n't be charged anything or update anything
+Wow , it only took them a week to agree with what I told them at the beginning
+And , they ll let me know the moment they resolve the issue
+That was day before yesterday .... I know maybe you ca n't help me , but I m depressed about what happened to me , create many posts in every forum , I need help , please
+Hi and thanks for helping me , I want to skip android setup wizard in Android 8 , my phone stuck in page after select languages and this is the message : Please wait , this may take a few minutes
+I researched about skip Welcome Screen Wizard In Android I found tap 4 Corner will skip Android wizard , but it only works in Android 2 until Android 7
+My Android 8 ( Oreo ) how can skip welcome screen ? If I just skip android welcome screen my problem will solve
+right now my phone is useless and I ca n't do anything with my phone , it s locked the bootloader , so I ca n't modify anything just help me how can fix this issue and skip welcome wizard ? This is the video I found about skip android welcome wizard , but it s only working for Android 2 until Android 7
+I need help for android 8
+The fingerprint ID is not reliable in my Huawei Y9 Prime
+I figured recently It can be unlocked by anyone
+I do n't understand why is this happening
+Its Android 9 and just bought last week
+It s a maker s defect issue so back to them
+You can try on XDA Forums but here I do n't use fingerprint ID at all
+I consider it an experimental feature
+You and others continue to reinforce my view
+Microsoft released new security updates today
+Both Critical and Important Updates have been released
+Updates include those for Microsoft Windows , Internet Explorer , Edge , Microsoft Office , ChakraCore , Visual Studio , Defender , NET Framework , and others
+Note : Support for Windows 7 , Windows Server 2008 R2 , and Windows Server 2008 ended January 14 , 2020
+For more information please see Lifecycle FAQ - Extended Security Updates
+Does anybody know how to remove factory pre - loaded McAfee off of a computer
+It hangs up in the middle of removal
+The software does not operate with propers protocols for software removal in Windows
+If I do n't want your software on my computer , I should not be made to keep it
+HELP ? ? ! ! I recently became interested in internet protection and security
+I have few questions though
+Can hacker randomly attack someone on Facebook , perhaps only because the victim has a weaker password ( eg a short word and 1 symbol ) , even if he does n't even know the victim ? Could they perhabs try to log into some random account and click on forgot my password and mobile number and somehow " recover " the account only with the help of a password ? Is it necessary to send an email ( phishing ) before or can they just hack the facebook itself ? Does a hacker have to know his victim or can he just break into random accounts ? I purchased an HP computer from the Microsoft Store this last summer
+It cost more since it was pure OS and no bloatware
+I ’ve not downloaded anything on it
+I keep being told that Windows Defender is just as good as any other security software
+But my computer keeps acting up like it ’s infected
+I ’ve had it checked twice and they ( Geek Squad ) say it ’s fine , but within a week it ’s back to freezing , not loading links , etc
+Well , I guess my question is : Is Windows Defender good enough ? I do n’t want to load another security program to bog down my computer
+Also , being on a pension , it ’s costly to have to buy one
+I never pay for virus software
+It is a waste of money
+I ve been using Microsoft Security Essentials ( Defender is a Win 10 reincarnation .. I think ) for years
+I have time and time again rescued other people s infected machines and all had some expensive virus software
+Amazingly , it is a variety of free tools including Microsoft s Malicious Software scanner that usually finds the culprit
+Recently someone who was using the paid version of Avast was infected
+Avast did not intercept nor did it locate the virus on a scan
+The free version of MalwareBytes knocked it off
+Corporate systems have to take a different tact and be on top of their game with a variety of strategies and tactics including relentless user education
+But individuals are wasting their money with paid anti - virus software
+After using my new Windows 10 desktop for a few days I have to say I m a little frustrated with Edge
+On my prior Win7 computer I frequently saved web page shortcuts to the desktop and had about 100 of these
+They were transferred over to my new computer but now I find that many of them no longer work
+In addition , you apparently can not create these types of shortcuts with Edge ! Major faux pas
+Why would they eliminate this capability ? When clicked it opens the site in your default browser
+If your favorite browser is n't Edge , but Chrome or Firefox or Opera or whatever , make that your default browser
+In fact , if Edge doens't do what you want and one of those browser do ( Chrome and Firefox are free ) , in the future use that and forget about Edge
+Spammers have had random naming generators for years - I would immediately assume this is just the usual criminal activity on email
+I get lots of identical email that looks just like my address , but even my little ISP email knows the difference without me even answering them
+They go to the junk mail box , or do n't even reach me and go to the grey mail servers my ISP hires to block this crap - I ca n't believe so many people are falling for this - GMAIL should know better than this as well ! ! ! After finding decent instructions explaining how to do this I exported both my emails and my contacts
+It seemed like both processes were successfully completed but when I open Outlook there seem to be some problems
+When I moved my email files there were messages in the Inbox ( lots ! ) , Sent , and Saved folders
+When I click on the Saved folder the messages appear correct , but when I click on the Inbox and Sent folders there are no old messages displayed
+Why are these messages missing if the transfer process was successful ? My Windows Live contacts list displayed names and associated emails
+When I open the Outlook address book it displays the emails but all of the names are missing
+What happened to the names ? I have acquired a 27 inch monitor for my 18 month old Lenovo 15 inch laptop and intend to retire my 6 year old Dell AIO
+I currently use Office 2010 including Outlook on my AIO
+My plan is to subscribe to Microsoft 365 ( new name for Office 365 ) on the laptop
+I have always received my email to Outlook through my ISP and that has never been satisfactory
+With Microsoft 365 , I have the option of hosting my email there as opposed to my current setup
+This will also enable me to access email from my iphone ( I can get ISP email today but it is not easy or user friendly )
+I am a longtime user of Outlook and much prefer it to Gmail which I use sparingly
+What decisions and factors do I consider with this approach with Outlook
+I understand that I will have a new email address which will have its own set of challenges
+Will I be able to convert or transfer existing email and archives to my new email host ? Can I direct email with the older email address to my new system ? I believe it will cost $ 4 a month , and if it eliminates the problems I have today , it will be worth it
+The first thing I am doing is subscribing for Microsoft 365 on my laptop which includes the suite of software products including Outlook
+My current Office 2010 software is on my AIO which I am retiring
+I currently get my email through my ISP and it connects to Outlook 2010
+2nd question : The interface between ISP email and Outlook is not the best
+I usually have delays in getting access to Outlook email after i wake the computer up
+Usually about a minute , sometimes more
+Other software products start running much faster , i.e. browsers
+Often get error messages of various types between ISP and Outlook
+Over time ( years ) I have had several PST database corruptions and I suspected the ISP may have had a hand in some of those
+My current setup does work and I am not aware of losing messages , just not a very good interface
+The idea of bypassing the ISP sounds appealing but perhaps a better initial approach is to go with 365 and see how that interface works between the ISP and 365
+Some of the delays and issues I experience could be caused by Outlook 2010 desktop version
+I expect Outlook 365 is a much better product and interface
+Does CNET ever test their site for page load speed ? My Surface 3 takes minutes to load
+The page is always jerking around as another ad or image loads
+It is extremely frustrating
+I minimized with adblocker , but I have to turn off here
+Is there an option to pay for faster load times ? Try to use Firefox browser
+In my experience it is one of the fastest browser available to surf
+When I click on a link I know is safe in an email , Chrome tells me that the site can not be reached
+But all my other browsers go straight to it
+I am talking about links like those in Smithsonian Magazine Newsletter , digital newspaper editions , and city notifications
+I use Windows 10 and Norton Anti - Virus
+Thanks for whatever you may be able to tell me
+And now I just came off a flight booking from hell - it is by an airline where I can pay with loyalty points - but I tried three browsers before I called their help line and let an agent do it for me
+While that was underway I experimented a bit with Chrome , the one browser I had n't tried yet ( it is only installed on my " other " machine
+) And - lo and behold ! - there is a reCAPTCHA suddenly , out of thin air , which my other browsers did n't show me
+The other day I was doing a good deal of online shopping and the proceeding to the checkout failed
+It turned out in the end that I had to switch to my - unloved , only there for emergencies like this - Google Chrome browser
+Then I saw that there was a reCAPTCHA displayed that the other browser ( my trusty old Firefox ) did n't show me
+The trouble here was that I had to rebuild my whole shopping cart on Chrome before I could place the order - as far as I can see , the shopping cart is implemented in cookies and they are not shared between browsers
+On my Android phone Chrome searches come back with findings different than Firefox
+Some times Chrome has better findings than Firefox
+Most times not
+I have a ASUS Switch that displays Edge better than Firefox or Chrome
+Search results are better in Firefox than either Edge or Chrome
+Chrome on any platform most always links the search to other search platforms to other platforms never to an actual answer
+Searches like sweetwater would probably get the search engines that are searching other search engines , But Sweetwater OK would get you map and all manner of statistics
+People who design web sites try their best to work around this
+It get extremely complicated to support all browsers , sometimes needing complex if / then javascript statements to test for which of the many brands and versions of browsers you are using
+No current browser supports all current web standards
+Some do better than others
+But you are always going to run into problems on some sites
+Best you can do is always to keep your browser updated to the very latest version , and keep Safari ( MacOS ) or Internet Explorer and Microsoft Edge ( Windows ) , as well as Google Chrome and Mozilla Firefox on all your machines
+Also if a site does n't work try to work out why
+Do you have third party or all cookies blocked ? Do you have pop - up windows blocked ? Do you have an ad - blocker ? Some sites wo n't work with some of these options and you may have to selectively disable them for particular sites
+From the beginnings of the web until my retirement , I was the webmaster at a major government agency justly renowned for its technological prowess , and bad web design really ticks me off ! Any pages put onto the web on any of my servers had to be tested offline first with all the different browsers , from character - based Lynx through Mosaic , Netscape , Arena , Internet Explorer , browsers for the blind , and whatever else came down the pike back in those early days
+Today , you have to test AT LEAST on Edge , Internet Explorer , Firefox , Chrome , Safari , and Opera , which will cover more than 99 % of your audience
+I m taking the new Chromium based Edge browser for a test drive
+I seems as fast as the Google Chrome and faster than FF , at least here
+All of my extensions and settings were transferred for Chrome except the home page stayed Microsoft
+I may leave it or go to DDG
+I also like that I can go to the MS store as well as the Google store for extensions
+My only concern is that now that MS has it s fingers in Chromium , will the hackers start hacking like they did with IE and ruin it for us
+We ll see
+Do I understand correctly your webmaster does n't validate his work and publishes html with errors ? That s not what a good webmaster should do
+Educate him
+Or switch to the new Chromium based version of Edge
+If Chrome does n't give this warning , it s likely that version of Edge does n't do it either
+I would n't call it a fix , but it should work for you , if you accept your site has errors
+Have you used Brave Browser ? i had usered for some months
+It is amazing experience with Internet , I feel Brave faster than Google Chrome , Firefox so much , and auto block advertising any web we visit include video on Youtube
+I use my yahoo mail daily and have for years
+I ve noticed that I can only see emails for the past month in my inbox
+My spam and trash have years of emails as do my folders
+I ca n't access the inbox ones from earlier than Dec 27 , 2019
+I tried on my computer and phone
+Any suggestions ? Not a vital problem but annoying nevertheless
+I have the rain alarm extension installed in my Chrome browser
+Works fine , but about a month ago after closing Chrome I get the following message in the right lower corner of my screen : " Rain alarm has crashed
+Click this balloon to restart the app "
+I have tried everything : - remove the app with a thorough cleaning with ccleaner , system ninja and Chrome itself
+- Remove and reinstall Chrome
+Firefox is a browser that focuses on opening web sites rapidly while keeping those nasty pop - ups and spyware at bay
+Firefox was in its final stages last summer and fortunately for the up and coming browser two federal agencies recommended Internet surfers choose a different browser than Internet Explorer due to security issues IE was facing
+This timing was perfect for Firefox and when it absolutely was placed on the web for get there were so many people trying to get at once the server practically could not handle all of the desires
+However , Firefox came through and lots of web surfers switched online Explorer
+In fact , Internet Explorer placed the market share for internet browsers at 95
+5 % , yet has slipped to 80
+9 % in just the month or two Firefox has had its check version on the market
+This might look like just a few percentage points , require percentage points represent an incredible number of individuals who have switched from FOR INSTANCE to Firefox
+In fact , roughly 23 million preview replicates of Firefox have been downloaded
+We all won as we can use what we want
+Today I have Chrome , Chrome as on a Chromebook , Firefox , Opera and can fire up others if someone tells us a web site is troublesome of say the Brave browser
+As my Linux teacher and guru , you remember that I used Linux a few years
+I stopped when I built my new comps but , the only reasons I stopped is because my bank and other sites like Comcast and gaming even with Wine would n't run under it
+I hoped running Chrome , with it s own Flash player would correct that but it did n't , unless things have changed the last few years .... Has always worked for me , although I prefer Firefox for most uses
+I had two places , one a bank , the other a bill pay site , that failed for me
+Chromium however had no problem with the sites
+Since I was using the 32 bit version of Mint Linux , it did n't supply updated Chrome Browser , so dropped it and now use Chromium instead , which works with 32 bit versions of Linux
+However , if one wants to use current Chrome Browser , it does have a current version for the 64 bit versions of Linux
+My main complaint against Linux right now is the way they all ran after " systemd " overlay system , which created a couple problems for me , and it s a bear to diagnose at times too
+Added almost 1500 more files , and for the original stated reason to " speed up boot times " which was of the least concern to me since I usually suspend , sometimes for months of uptime too
+The separate manual for that added overlay " systemd " is about 250 " man pages " long ! The one halfway decent systemd free version is currently MX Linux , and maybe Devuan ( broke away from Debian over this ) , but I ve not tested Devuan Linux yet
+Reason I ve not gone over to MX Linux , which can be installed with or without systemd in it , is what I consider the scattered manner in where numerous settings are located
+Normal users do n't want to take diagnostics and corrective measures at all , that s why they run Windows
+If there is any issue ( usually there is n't ) , there s a lot of help from Google , forums and knowledgeable friends
+And most of what they learned in the past ( about Windows XP or 7 ) is still valid or changed in a way that s not too difficult to understand
+since that is the one used with mobile phones
+However , nationwide is a large insurance site , can you imagine if same DNS error I received , suddenly that happened to people trying to visit Amazon , Facebook , Twitter , EBay or major media sites ? I had " no proxy " set , and no warning of FF changing that , restricted to their browser when used
+You re going far too fast
+I was just asking to experiment with another email program to see if you could get those to send mails
+If they do , you know what settings are necessary and you can try to fix the current settings in Windows Live Mail
+Your WLM copies mails from the inbox on the Comcast server to your PC ( and they are new there ) and then immediately deletes them from that server
+That s why you ca n't see them from your iPhone or browser , because those two look at what is there ( and not yet moved to your PC )
+Tech Disadvantaged - Did you get your email Send function to work ? The thread ended rather abruptly , so I wondered
+The Send issues were resolved , I made a simple change in email account properties , and Send function works again ! Like you , I have been hesitant to switch to a different email program , because Windows Live has the perfect format and functionality for me
+It s advisable to switch in the near future , though , to enable regular upgrades and security updates
+I would use Windows Live as an archive of old messages
+I have been looking at Outlook , Mailbird , eM Client , and Thunderbird
+Have you checked into any of these ? MS Word and such ca n't make such a document until an A3 printer driver is installed
+I ve repeated this for other page sizes so I wo n't do any research about it
+My answer will be short : Install a printer driver , set the printer to A3 then back to Word to see about selected a page size
+As the SharePoint Online service is constantly improving , developers handling the branding process should rely on those customization approaches that are supported
+Avoid customizing master pages , as any future updates may affect its structure and result in incorrect behavior
+Customized branding of OneDrive for business sites are not supported
+SharePoint Online Portals are part of the overall Office 365 ecosystem
+Consider the significant differences between the branding approaches of Classic and Modern sites and pages
+Make a deep awareness about recommendations from Microsoft regarding Navigation Solutions and Performance Guidance for SharePoint Online Portals
+Hi there
+Windows 7 , Firefox , I have saved a " Print to file " which made an .XPS file
+When I open it , it opens in XPS Viewer but the pages are blank , if I open it in Word it shows code ... How do I view it or somehow save THAT file in a different , readable / viewable format ? If your team is small , if you only have one team , if you do n’t need the extraneous bells and whistles of Flock , if you need a specific yet uncommon app integration , or if you prefer as minimal an interface as possible , then go with Slack
+But on the whole , Flock is outright better for most users
+You have a list of requirements and it s very common to hear complaints about just about every CRM
+There are cloud based systems where you or your IT do n't have to setup a server and then the old way of setting up the server and services
+Today folk want the cloud based if they have no IT staff
+That grunt work is vastly reduced with cloud based CRMs like Salesforce and then go up enormously with the old server based method
+Even the setup of the email system has bested many IT staffers so asking that is be simple means cloud based to me
+I have a laptop that did have Office 2010 Professional Plus on it and we just upgraded it to Office 2019 Professional Plus
+She had custom templates that she had made on Office 2010 in word that I ca n't find now in 2019
+Can i migrate those over somehow or are they just gone ? I have been using Office 365 without problem until yesterday
+Now for both Word and Excel I get the following message , " We re sorry but Excel ( Word ) has run into an error that is preventing it from working correctly
+Excel ( Word ) will need to close as a result
+Would you like us to repair now ? " So I click repair now and the software starts working , but in less than 5 minutes it shuts down completely
+Anyone have any ideas ? Thanks kindly for your help
+And now I m seeing this message whenever I open MS Word : " File not found : /Library / Application Support / MACPDFM / MacPDFM.framework / Versions / A / MacPDFM "
+Do I need to uninstall and then reinstall Word ? Or is there some folder that I can just download?I'm afraid that unininstalling and reinstall Word wo n't help
+Apparently , Adobe installed some add - on for Word and told Word to load it , so you could use it
+Now you must tell Word that there s no need anymore to link to it
+I am trying to look for a free and multi - tools PDF converter software , I have been using one for sometimes , I hope some others can suggest or recommend some new PDF converter software
+I am hoping to look for offline instead of online because I want my data to be more secure and safe
+IF the PDF software supports batch conversion is highly recommend too
+Actually the PDF software from Bitwar is doing perfectly fine and the PDF tools are really good and outstanding according to the price of the software which I bought the One year license of the software because I looked for some other PDF editor software which may cost 2x or 3x or even higher price more expensive than Deli PDF converter software but the Tools and the formats supported are almost the same and the results are both excellent as well
+Therefore , Deli PDF software is actually well priced and good for most users for converting PDF and editing PDF
+For example like Adobe , Acrobat Dc is a dynamic PDF editor software by Adobe but it costs a lot of money for the software just to perform PDF conversions
+In the end , I am not saying Deli PDF is a better product compared to Adobe Acrobat DC but just for many users like me just need to perform PDF conversion to word or excel , is actually more than enough by using Deli PDF converter and as a passionate user , I also would like to open for more PDF converter that is useful or many popular used by other Users ! Still , thanks to the moderator for your feedback and opinion on Bitwar , Looking for more help and suggestions from all other Cnet users too
+What is the old source , and what is the new source
+Both in Office 2010 and in Office 365 ? And how many links are changing ? If everything is on the SSD in your own laptop / PC it s much faster than if everything is in the cloud
+Thart might be part of the explanation
+I do n't have access to Libre Office
+The grid is 15 rows by 5 columns
+Makes no difference if the files are local on my laptop
+I can find lots of people moaning about this on the internet but no one seems to have found a solution
+Once a month I have about 1/2 day of re - linking ( mostly by macro )
+For that to take 30 times longer is not an option
+At some point I will no longer have access to Excel 2010
+Microsoft technical support say nothing is wrong with the program , it s how I m using it
+How else are you supposed to link spreadsheets ? As to the moaning and such , I doubt Microsoft is going to address this
+This means we get to address it by using our old Office or trying a new one
+What is this about no access to Excel 2010 ? At home and office we duplicated the install media as per our rights and while we run Office 2013 I m glad to report it still installs and runs fine ( I wo n't list the small things that do n't work anymore ) we only use Office 365 where we need it
+Please make a new question in this forum , telling you want to use the webcam in your Windows 10 ( that s right ? ) laptop to record a video and asking what sotware our members recommend
+It might be useful to explain why you do n't plan to use your smartphone for the purpose
+I m afraid that you sittting before a screen on that distance , moving your eyes or head from left to right to read the text and down sometimes to find the page - down key does n't make for a very good broadcast
+If I see myself in a Skype or Zoom meeting , it certainly does n't look like something to publish
+But since the other participants look just as horrible , it has to be done
+- The first list is about the type of output you want
+Choose from JPEG , PNG , TIFF , Bitmap , OpenXPS or PDF
+That s totally up to you
+- The second list is about what you want to scan
+Try all and see what you like most
+- The third list is about how sharp the copy must be
+The more pixels on an inch , the longer the scan takes , the larger the resulting output file is and the more details you will be able to see
+Start with 400 and 700 , compare the results and then decide on the final value you use
+If it s for showing on a webpage , phone , tablet or website , there is no need for a very high value
+If you want to print it , there is no need to go higher than the highest resolution of the printer
+Audacity 2.4.2000 application is completely free application that anyone can download it can remove the effects and disturbances in the sound by Audacity 2.4.2000 and you can record the sound on your computer by the microphone and you can add effects such as echo on the sound as you can edit the sound by the program And you can add many effects such as expanding the room and you can save the sound in many formats like mb3 , wav With Audacity 2.4.2000 you can add filters to your voice and make it like famous singers and you can amplify and slim your voice by the program and when you record the sound in a noisy place you can remove background sounds Distorted and noisy by Audacity 2.4.2000 , and you can change the speed of the sound by AudiCity and you can add an adjustment to your tone of voice , for example , you can soften your voice and make it like a woman
+Hi : I m looking for a free video editor to get started with that will run on 32bit WIN7 and record webcam audio and video from a Zoom HandiCam
+The idea is to make amateur level split screen music videos for FB and YT including footage from other musos
+I ll need to be able to mix audio volumes , and it would be useful to have basic colour adjustment to get my clips to look the same as those sent me by other musicians
+One of them uses Pinnacle Studio Ultimate , but that requires 64 bit and more PC power than I have
+Thanks , Max
+As to 64 bit Windows long ago I did a test where I installed Windows 7 in 32 then 64 bit using the same activation code
+Worked fine so the only limitation here is you
+There s also a way to run Windows 10 without activation ( not a crack , just how it is with W10 ) and we can upgrade to W10 from W7 at no cost still ( did it 2 weeks ago
+) So there is again no limitation there as to the new OS except the owner or client
+If they wo n't budge you leave them in the rut they are in
+Thanks for that , R Proffitt
+Upgrading to W10 is an option I m looking at
+What puts me off is suggestions I might then have trouble running a bunch of legacy software I use , and difficulty finding 64 bit W10 drivers for these old laptops ( Acer 8920/8730 - Intel Duo T6400 , 3Gb , Win7 Home Premium )
+Shotcut and VSDC Free appear to run OK on them
+My question is really what 32 bit vid software will get me started on this without too long a learning curve to do what I want initially
+Once I upgrade to a recent PC I ll probably change to one of the current 64 bit standard editors
+That is actually the Core 2 Duo and my son has this Sony with a Core 2 Duo which we changed the HDD to SSD and install W10
+In that laptop there was no need to look for drivers
+Windows 10 did all the hard work and all the hardware works
+This laptop was returned to me , the SSD fitted and the upgrade to W10 and now is used by my neighbor as a YouTube , Web'ing it up and music player
+It plays 1080p Netflix without issue to a big screen HDTV
+When I try to convert files in Sony Media Go , the converted file gets deleted
+I use more than one media converter but one that I use over and over is VLC Player
+Plenty of articles about it s use as a converter so I ll pause here
+After repeated tries , I can not find a way to prohibit users at a meeting I set up to not turn on video
+In test upon test , we have not succeeded and users can always turn on their own video
+Any thoughts ? Thank you
+If they turn it on , they get ejected
+I m not Zoom s support so I take it they failed your feature request and all I can offer is to put it out as " Policy " along with what will happen
+Nice detective work
+Looks like you had to dig deep on the Zoom support to locate that - well done
+do we have any other way other than photoshop or after - effects to remove the watermark ? I found out that VLC help me remove it but still it s not professional enough
+I saw many of the graphics Designer used to do that illegal practice when I hire a freelancer from one the famous freelancing platform for my product title as buy cbd hemp buds to create video and watermark the title on that video they used the template video and edit watermark and delivered it to me when I saw an illegal activity I report to the freelance platform and they take a strick action him
+Canva is a tool of designing the creatives like if you want to create some professional creatives like related to business , festival and promotional tips or any topic you want
+there are some templets by which you can design your creative easily
+you can use it in your mobile or laptop
+canva have many option of background and specially it is having a grate collection of images
+Why is everyone trying to build links on this forum ? I mean yes moderators remove all the links even the informative ones but people doing link building is just not right
+For photo editing , professionals use the software from Adobe , especially Photoshop
+So that certainly ranks very high
+For web design , this is the wrong forum , so I wo n't answer that question here
+Moreover , there is no best ; one reason is that it depends on the requirements for the site
+By far the best photo editing software for Photo editing is Adobe Lightroom
+With the help of adobe lightroom , you can correct the lighting of your photo and make it look attractive ... You can also go with photoshop for making major changes in your posts ... The best software is the one that you find that it helps you achieve what you need and you can use is with out much trouble
+Adobe products are very good , but require some knowledge on how to use them
+Also , can be expensive for some
+Online editors like PixTeller can give similar results in many cases , are easier to use , free , and you can use them from any PC
+Since there are many programs to edit your pics on your PC ( or even tablet ) , either locally or on the web , and then upload it to your Wordpress site , why would you need a " Wordpress Image Editor " plugin ? And what s wrong with the one you recommended in an earlier post ? Why do you need more than one ? The photoshop is an better one compare to illustrator , Photoshop it is an great program for modifying already created images and it have many features compare to illustrator and also famous among all the graphics tool
+I do n't like Illustrator , I think Adobe Photoshop or Lightroom are the best tools to retouch photos and make the size required
+Moreover , Lightroom is great to view all images within a folder and you can organize and view / edit images there too , but tastes differ
+Yes , some parts are very crappy but back when I was buying this PC I had really tight budget
+Anyways my GPU recenlty died and I am looking for a quick replacement but I am worried that I will choose the wrong GPU so my Power Supply wo n't be able to handle it
+These are GPUs that I wanted to buy : Zotac GTX 1060 6 GB Mini , MSI / Asus R9 380 Gaming 4 GB , Asus GTX 970 4 GB , MSI RX 470 4 GB
+So from these tests I fugured that I can probably go with even better GPUs for this current Power Supply I got
+The GTX 1060 I looked up was mini version by ZOTAC , it says on some websites I looked up that it s TDP was around 130W , so that is why I was worried
+This version you tested is probably better option than this one , so if it can go along with my current PSU I would deffinitely consider it
+I plan to upgrade my CPU to i7 4790 and buy SSD also , so I want to make some room for that if possible
+My son s GTX 970 and others are failing now
+This old GPU did well but there s likely a reason it s available
+The ones I know of let the PC boot but give strange issues in games
+From artifacting to crashes which are hard to figure out
+I ve seen folk spend months asking others to read Windows core dump files over this
+At least in our shop we know the signs and swap the GPU early for testing
+Hello dear peoples
+I have an question about my XBOX ONE X
+Bought it month ago , from shop new
+I ’ve noticed one time , that if I leave the Division 2 idle for about a half hour or so the entire Xbox one x turns off
+It ’s definitely not something in the Xbox settings , is the only game that does that while being idle
+Second time it shutted off when loading game on 14 %
+I already have a RX 590 , a Ryzen 2600 by itself ( no heatsink ) is on its way , and I have some 16 GB 3000 MHz memory I ll use until I can find some faster for cheaper ( 1 - 2 days ago there was 16 GB 3600 MHz for almost 20 % cheaper so I ll keep an eye out for a couple weeks if I can find something as cheap )
+I need the rest of the system
+Just in case it s necessary : I have a mid - tower and Freesync 4 K monitor
+I do n't see anything about a 2600 on the URL you provided and I d like a suggestion for a system that must contain a Ryzen 2600 & RX 590
+I do n't think I even get 20 FPS currently w/o seeing tearing , if I can get to that point it would be nice
+I do n't play FPS , so there s no need to see things really quickly ; I just want it to look good
+If once I setup the 2600 system , if it persist and I ca n't stand it , I ll try 1440p
+Option A : Sell the i7 , motherboard and 8 + 4 gb ram for 170usd ( ₱9000 ) and get a Ryzen 5 2600 , B450 and 16 gb 3200MHz bundle for 280usd ( ₱14000 )
+Option B : Sell the RX470 for 120usd ( ₱6000 ) and get a GTX 1070 for 200usd ( ₱10000 )
+The i7 is more than capable for 1080p gaming so let s compare the 470 and 1070
+By the Ryzen instructions , I removed the 2 CPU brackets and put in the CPU
+When I got to the Wraith Spire , I attempted to fasten it into the 4 empty holes that previously held the brackets
+It does n't seem to be fastening to the motherboard as I expected so I m unsure of how this goes
+While I ve installed hundreds if not ten times more CPU cooling setups I ca n't answer because I do n't have your board and cooler
+But I will write that many kits have extra bits and they leave you to figure it out
+If this one is that hard , try another make or try the stock cooler from AMD
+I ve have n't tried to open all of my games to see if they were affected by this problem , but I know that my problem does n't occur for Rainbow 6 and Far Cry 5
+I m not an expert in PC
+Thank you in advance for helping me out
+Specs : i5 - 9600k / RTX 2060 / 16 GB / 700 watts
+I bought my desktop a year and a half ago and it was brand new
+Monitor : AORUS AD27QD , Cpu : i7 - 9900 K stock 4.7 with Noctua NH - D15 , Gpu : Rtx 2080 Ti Aorus Xtreme Waterforce ( stock no oc , temps max 63C on load ) , Ram : 32 gb 2x16 GB DDR4 GSKILL 3000MHZ XMP , Psu : Seasonic Ultra Prime Titanium 850W , mobo : Asus Prime Z390-A , SSD : Crucial 1 TB , HDD : WB BLUE 1 TB , Case : Cooler Master Cosmos C700P
+In short I m an osu player and was looking to upgrade to 144hz monitor with 1ms response time
+I usually have 480 FPS in osu with this graphics card ( gtx 750 ) however i just wanna make sure I do n't waste my money for no improvement
+I do n't know much about monitors but i heard that not all connections support 144hz so I was wondering if it would work
+What do you think would be the best setup for upgrading my old Alienware ? Here’re the current specs : MB : Z97MX - Gaming 5 , i5 4690 K @3.50 ghz , 8 GB RAM , GeForce GTX 960 1 GB
+It s pretty much expected to barely break 30 FPS at times with a single RTX 2080 so to fix that you use a pair of RTX 2080 s
+And that s a problem of power and heat
+The power is fixed with a new large PSU
+But then when you slam in a pair of RTX 2080 s your motherboard may not space them out
+Here s a video on the build for getting to 60 and up FPS at UHD 4K
+Hello I have a hp notebook 15 model hp 15-f272wm and I need help finding out what type of ram chip I need and if I can use this one
+You have a HP 15 and the sticks call out HP 15
+Only the supplier can answer further
+Here I stick with Crucial.com since they have a better memory finder
+Hi guys
+Christmas is coming and I will get a graphics card
+I used to have a gtx 760 that died almost two years ago and I think it´s time to become a gamer once again lol
+The thing is that i´m from argentina and well , our economy isn´t the best so the best I could buy is an RX 570 4 GB
+There is a very well known place here that has the best prices and they have the MSI armor 4 GB and the Sapphire Pulse 4 GB at the same price
+Which one should I get ? I couldn´t find a proper comparison between them and the only difference I have seen is that the Sapphire one has a backplate
+I just updated my GeForce GTX 1070 to the RTX 2070 super
+When I go to DirectX Diagnostic Tool ( dxdiag ) everything shows and has a driver installed dated 12/5/2019
+When I tried launching a game to determine what graphics I should play with , it said it could n't detect a video card or something similar
+I posted the specs below but every part in my computer is less than 3 months old and games are running incredibly slow
+Specs : CPU : Core i7 - 9700 3.0 GhZ quadcore , Ram : 32 GB GDDR 5 RAM , Motherboard : Gigabyte Z390 UD , SSD : 1 TB , OS : Windows 10 Home 64 Bit , Bios Version : American Megatrends Inc. F8 , 5/24/2019 , Chipset : Intel ( R ) 300 Series Chipset Family SATA AHCI Controller , Game : Fallout 4
+Hopefully you can correct this glaring issue
+All that said , I do n't advise less than the RTX 2080 for UHD 4 K gameplay and then NEVER on HDMI
+We want to see display port and the 2080 if not a dual 2080 for UDH 4 K happiness
+Since is just a 28 inch monitor you would find me setting the video mode to 1080p 60Hz and let it rip in full RTX glory
+I recently picked up a gigabyte aorus 2080 , but the lighting does n't work right
+No matter what effect i put on it , the LEDs flash to different solid colors at random times during the animation
+I tried uninstalling my drivers and getting a new bios , but none of it has helped
+These lighting systems are still hit and miss
+You ll have to get your motherboard maker to tell you if they support your GPU maker on this
+And the GPU maker will have to tell you the same
+I have an HP Server dl380 G10 , it was working fine for several months , but suddenly it started to shut down by itself at random times , with all the leds flashing for three times which means memory power fault as by the documentation , when starting over the server and running all diagnostics for the memory and HDD they all are passed , stress test is passed for 48 hours , but the server still crashes at random time , from the iLO 5 the reported error is under BIOS / HARDWARE HEALTH which is always green and OK unless when the server is crashed it gives the System Error
+If you want to get super - accurate colors for photo editing then you need to buy a high - end monitor that ’s relatively kind to your wallet
+Here are few best monitor for photoshop editing
+BenQ SW2700PT , ASUS ProArt PA329Q , Eizo ColorEdge CG319X , Dell UltraSharp U2518D , Viewsonic VP3881
+Was sitting on YouTube , laptop turned itself off for no apparent reason
+Charge was almost full , plugged it in in case , no dice
+LED light was on for the charger a bit ago but disappeared after I pressed down for a few on power and the fan whirred like it was ready to start and then did n't
+Taken battery and charger out for now as it is getting quite hot for something that is n't actually on
+Any help would be appreciated
+Hi , I have an Acer ( GN246HL ) monitor that does n't have a DP , but instead uses DUAL - LINK DVI to recieve a 144HZ signal
+I m looking to build a new PC , but struggling to find graphics cards that describe support for dual - link DVI in the sub - £200 region
+I would prefer to buy new ( I can look into used if really necessary )
+Does anyone know of any decent GPUs that support dual - link DVI ? I can only , at best , find cards that support regular DVI and I do n't understand whether that s different to dual - link
+( I was looking at rx 570s and gtx 1650s and they supported DVI , not sure if this means it will work with my monitor or not ? ) if I buy a card that has DVI ( like an RX 570 or 580 ) , it ll be dual link ? And I can avoid problems if I do n't buy an RTX card ( which I ca n't afford anyway ) ? Thanks for replying
+I ll probably look into the 1660s , although I might try an rx 570 by a maker that includes DVI - it s performance level is about perfect for my eSports usecase and if I can get a cheaper card that supports my monitor I m all for it
+I think I understand how this DVI business works a bit more now ! While you did tell me RX 570 or 580 it s too much work for me to build such a list so I do n't do that
+I defer to makers since if the maker will not answer questions now , they wo n't later
+Why not the EVGA 1660 s as those are great performers and seem to be enough GPU to get most games up to 144Hz
+That is , I would not try this on the 1650 or lower
+I have an asus formula vii mobo and the mentioned processor
+I use the H1115i AiO cooler from corsair
+I mainly play World of Warcraft on my computer so nothing too fancy where I need to overclock my system , just run at normal typically does n't cause any stress at all
+But a while back the fans on my AiO started going crazy and I am not sure why
+Temps are around 40 deg C and the fans at 40 deg C ramp up and down until they are WIDE OPEN ( 2200 rpms ) and it sounds like its trying to take off from under my desk ... Anyone have any ideas ? Would let the BIOS control the fan speed , be sure the BIOS is current and the fan is on the CPU fan ( motherboard ) connection
+After that , post in Asus s own motherboard forum if that did n't clear it up
+I m running w10 32-bit on my pc and using a Samsung 192mp monitor via a DVI cable
+Works fine once I m signed in , but having issues during windows boot : getting some inputs up until windows " tune " plays , but then screen goes black and eventually screen goes into standby
+If I turn the monitor off and back on , the windows log - on screen appears
+How to fix this ? Another monitor on DisplayPort
+HDMI did work better but then I lose some other feature
+ALL THIS was kicked around and it came back to a PC issue and not the monitor which I suspect is the same as your W10 32 issue here
+My thought is this is yet again driver or bios related
+Get your PC and card maker to share how to update that
+Currently have an LG 27UD69P that I have had for over 2 years now
+I use it with my Xbox One X
+Are there any monitors out there that you think are better than my current display and are $ 500 or cheaper ? My only quibble is the volume controls
+But it s really a nice monitor
+Ok , during a iPhone sync , the system seemed to be hung up and was taking a very long time
+I thought there was an issue so I turned off the computer by holding down the power button
+( Yes I know that was stupid and I know better , please put my stupidity aside ... ) so when I restarted I got a missing BOOTMGR error so I tried to to repair with my windows install disc
+Auto repair did not work , I ’ve tried multiple cmd repair commands
+Nothing seems to help , and I ’m not sure but that may have made things worse
+? I decided to boot up with a different HDD in hopes to either repair the ssd or at the very least get some files I need off the drive
+FYI , the windows repair disc does not show an OS to select to repair so I do n’t know if that ’s another problem
+So that ’s the first part of the problems
+The SSD is listed in my bios , it is listed in device manager and also listed in drive manager
+Device manager Shows no issues with the drive , other than it only recognizes 8 mb on a 120 GB drive
+Drive manager says the drive is offline , there is no drive letter assigned and also only recognizes it as 8 mb
+The drive does not show up when clicking on “ my computer ”
+If I initialize the drive and follow the prompts , the system wants to format the drive
+( If I format it will erase everything , right ? ) I do not let it format the drive so it still ca nt be read as the drive is listed as raw
+Also , when restarting the computer , that drive returns to offline
+Is there any way to save this drive
+Or at the very least get my files off of it ? I know there are many software file recovery options available but until I can get the drive to work or be recognized I ca n’t use any of those software options to retrieve any data
+This fail and recovery is in the thousands of dollars as the only shop that did such would have to find another drive of the same make and model to move the flash chips from the old to the new drive and hope the data survives
+HDDs tend to have other failures where the file system is the problem but flash can be no recovery most of the time
+The recovery houses will likely not accept it for recovery
+It s been a one way ticket to the bin
+All skill levels arrive here so if you were to take it apart I hope you have the usual PGA , reball and more gear and experience
+The reflow machine runs about 4 grand so it s rare to find a member with that or access to this workstation
+Again , I do not want to mention that backup of 120 GB is cheap
+Let s hope that as a seasoned Windows 7 user you know to prepare for this day
+Then the drive is usually dead and not a file system failure
+This moves it into the over 1 buck recovery house category
+Unlike HDD where they have 300 buck recovery offers , SSD is a whole different animal
+Such a loss can be where folk learn why so many write about backups
+But once in a while the client / member / person is in crisis mode and will yell " Not helping
+" So I try to avoid that discussion till they are ready
+Well I got the drive working again and back to 120 GB
+Unfortunately , all data has been lost
+I did do the quick format per the directions I found
+The drive needs to be formatted in order to reset the drive back to the full capacity
+In addition , I still had to do a second quick format in order to make the drive scannable with Recuva
+The drive needed to be initialized and formatted as it was set as RAW
+Thanks for all the info you provided
+Looking for a solid memory upgrade for my Z170A SLI Plus mobo , I am currently running 16 GB of Kingston HyperX FURY Black 8GBx2 2133MHz DDR4
+Looking for 32 GB worth , for gaming and running a VM in Hyper - V
+Thanks all
+That said I usually run at most two VMs at the same time
+Before you go with that much RAM did you eject all HDDs for SSD ? Crucial is my goto
+For your selected RAM , the maker should answer
+So , I just got a 2700x because they are on a great sale right now and I needed more for streaming than a 6700k
+So , after I got the 2700x installed I immediately started overclocking and was able to get up to 4.3 on 4.5v I think it was
+I then dialed it back to 4.2 after a crash on 4.4
+Then idk when it exactly happened but , instead of a score of 1721 on 1.35v ( which I looked up and I think I should have a higher score than that but , let s ignore that for now )
+I got a 1450 I think it was and I tried everything for hours after that to get it back to the old score
+Such as clearing cmos , more voltage , higher ram overclock , the pbo , putting it back on stock settings , everything I could think of
+But , the weirdest thing about what s happening is that the same thing happened on my 6700k
+It dropped from a 890 to like 650 or something
+So i m at a loss here and need help
+Hello all , I have a quick question
+What would be a better choice out of these two
+thinkpad p71 with xeon e3 v6 1505 m with quadro p5000
+or thinkpad p72 with xeone 2176 m with quadro p4200 gpu
+this model is roughly 300 dollars more
+I am afraid that the p71 processor will bottleneck the p5000 gpu
+any input would be great , thanks
+The i5 - 2500 where we could drive THREE GPUs at full tilt
+Now maybe if the app / game used a lot of CPU one could call that a bottleneck but it is not
+The CPU<>GPU < > GPU bottleneck for the longest time was the transfer speed from one to the other
+I am looking to upgrade my GPU to accommodate either a 4 K monitor or at the very least something better than 1080p ( better resolution ) , my current specs are below , budget would be around $ 300.00 MAX , $ 200.00 would be better , this is strictly for gaming really
+Mobo : Z170A SLI Plus , CPU : i7 - 6700 K 4.00GHz , Memory : Kingston HyperX FURY Black 16 GB 2133MHz DDR4 , GPU : Radeon RX 580 8 GB , Power Supply : EVGA 600 B1 , 80 + BRONZE 600W. At that price you should shop in the 2 K Gaming monitors
+Lots of reasons to avoid UHD 4 K since the current GPU is n't enough and you could blow a thousand and still not be happy
+Take my advice : Look at 2 K monitors
+Hi , I want to build AMD 1000 $ gaming pc and I need help choosing parts
+The PC should run gta 5 and battlefield at high resolution
+Hi I just built a new computer and unlike my last build , this one has a 12pin power , a standard 8pin and an extra 4pin
+The motherboard is a Asus rog maximus xi hero , and I m using a 9700k , 1080ti , and the PSU is an EVGA 850 supernova g2
+And my psu only came with 2 CPU power cables , both of them being the split 8pin ( 4 and 4 )
+Hello , I have a big problem since my dell T7500 does n’t want to boot Win 7 , here ’s how it happened
+Basically , I just clean the interior of my PC softly with a vacuum cleaner and I think I did nt unplug anything But when I tried to power on my pc
+I boots normally and it says MPT boot successfully installed ! It looks like it stucks because it ’s been 30 minutes and it still did n’t start up with windows 7
+Please help , thank you
+The method for decades has been canned air
+Try the usual
+Reset the BIOS ( check your Dell Docs ) and see if it starts up
+Next is remove power and gently push all cards and connections home
+Reset and test again
+I ve had this issue before , it was due to the computer trying to boot from the windows install disc / USB rather than the hardrive
+Remove the disc / usb and all should be well
+Also , let s start with known good builds like https://www.reddit.com/r/PCMasterRace/wiki/builds
+PCMR has builds that not 60FPS Gamer and go up from there
+Now if you want to game at UHD 4 K I used to write no but today that gamer can be seen at https://www.youtube.com/watch?v=sCfmM71NOTo but the GPUs alone are more than your budget today
+I have been tinkering with settings since i got this problem have reset chrome and reinstalled but i do nt think chrome is to blame
+no matter the browser i use edge , IE , Chrome i get the same result
+a page of invisible results
+i ve tried turning off , windows defender and adding chrome to firewall acceptions
+I keep getting the same thing
+it is like google is working fine but i can not see ANY of the search results it provides but i can click on them like i normally would and it will take me to the link i clicked on
+very annoying have not found a forum with a similar problem and have been using bing for the past few days as it works as it should
+any suggestions will be appreciated thank you in advance ! Some times we face these kind of issues but it can be solved following these steps
+Snap the Tools menu
+Select Internet Options
+Go to the Advanced tab , and put a check mark by Use programming rendering rather than GPU rendering
+Close and restart Internet Explorer and afterward sign into Web TimeSheet and the clear page would not come up once more
+Long history short , i updated my AMD RX 560 drivers , i had some resolution problems and my second screen was n't working , i reinstalled Windows 10 64b because i was fed up , but now my GPU is not getting dedected in any way shape or form , trust me , i tried EVERYTHING , the hardware Works on other computers , i cleaned it , its a software problem
+Samsungs and other models require you stick to the maker s issued drivers
+Samsung on top of that may not hand out drivers but some driver update app
+YES I do see this appears to be some built desktop
+And BEST OF ALL REASONS : Microsoft Windows has NEVER installed drivers , BIOS and such in the right order for us
+It s been over 2 decades and a Windows install still requires us to work at it to get a good install
+I had a strong sense of that
+I remember a thread where two RX520 video cards were involved , even pictures posted of them , and one never worked , no matter how it was tried
+I thought it was here on CNET , but maybe was in another forum I frequent
+For most , the best option is to disable Microsoft s automatic installation of device drivers
+That way , they ca n't automatic install such drivers and cause the problem
+And if the drivers have been incorrectly installed by Microsoft , then visit the network device manufacturer s website , or the computer manufacturer s website and install the correct network drivers from those sites
+Once that s done , disable automatic driver updates by using the steps below , then in the link below
+So , there s two Radeon graphics involved
+Can the onboard video run a monitor at this time ? When you installed drivers after reinstall of W10 , you made sure to install the drivers for the onboard video chip also ? Has W10 done any updates since that time ? If so , then W10 may have installed different driver files
+Do you have W10 set to disallow new hardware/ driver updates yet ? I used my computer yesterday and I run it again today
+Suddenly , I saw a sky blue screen on the computer screen and it turned off black again and sky blue again
+I turned off the computer and turned it on again
+But they said they were preparing for automatic repair , but it came up on the bottom and went back to the black screen
+I can see the mouse cursor , but it wo n't go over the screen anymore
+I ve been using this computer for 3 years and it is Windows 10
+Sometimes you have to do a reinstall and others just by letting it run it will work itself out it all depends on what has gone wrong
+The last one I had wel several anyway required to be turned on and allowed to run for a couple of hours then turned off and restarted for an hour then turned off and on several times for extended periods of time but never over 30 minutes and then a Secure Boot Error was displayed and on the next reboot it loaded up and started with all of the data and software present
+Another one that came about from a Windows Patch not sure which one resulted in the nB eventually reloading with a NEW CLEAN INSTALL of Windows and everything else was history and short of doing a very invasive Data Recovery run on the HDD everything was gone never to be seen again
+Not sure what happened there but with all of those mentioned above I was not there when they went Haywire and only saw them some time after they stopped working so I m definitely not sure what happened to them I just saw the results after several restarts
+A friend of mine gave me some old servers , and MSDN CD s from his paid for subscription years ago
+I have only ever used for testing , and always rebuilding / starting from scratch as you do when things go wrong
+Am i allowed to still use , i suspect the subscription has expired , and the OS i m using are 2008 so old
+Also If i was to sell on the server to a trainee for learning purposes , is this ok , or best just not including the MSDN software
+Unless you were living under a rock you would know that Facebook is one of the most popular social media networks in the world
+Its popularity can be utilized for major influential purposes
+That being said , it ’s only fitting — if not essential — for businesses to have a strong presence on this highly populated social platform if they want to compete nowadays , whether on a local , national or global level
+Social media is a big platform to connect , publicize , and share information to the global users
+Everyday and every second , many people are getting registered on these social media sites in order to communicate with their loved ones and stay updated all the time
+Facebook apps are advantageous for the business growth as they build an extended chain of interested customers
+Undoubtedly , it can be said that turning towards Facebook apps is a smart business marketing strategy and it is also favorable for the business growth
+Many people prefer online shopping for their daily needs & lifestyle
+So , various retailers and E - commerce businesses take the benefits of Facebook apps for the sale of their products and make huge profits
+Facebook is a wide platform to promote your products or services effectively among the global audience
+That ’s why , it is necessary to get an interesting & feature - rich app from a reputed Facebook app development company
+Facebook is spreading its features for its users
+Facebook has provided the Ads manager with the help of which businesses are getting advantages and earning a good amount of money
+Also , Facebook has provided the marketplace section , where you can sell and buy products and even households
+Just learn how to work with the algoritm of Facebook and you can make money
+How can I add a shape ( red star ) in front of a multi - level outline list item where the star will move with that specific item when outline is collapsed or expanded ? I have an outline tutorial in a multi - level list
+I want to put a star in front of certain list headings or list items
+I did this but the star does n't move with that item when I expand the list item header
+I was recently using this youtube to mp3 converter but I want those videos to be downloaded to my computer as well
+I came across this review https://aghamobiles.com/youtube-to-mp3-shark/ But they have not mentioned anything about downloading
+Is it even possible if there is any other software for it because I have tried many they are all full of ads and many time - wasting this kindly please help me here
+For my PC / laptop ( windows ) , I personally use Dew VPN
+It s free
+I can also tell you , from personal experience I found it to be faster than other VPNs
+This is mostly due to the fact that is has so many servers worldwide , thus improving your chances of having your communications encrypted by a server that is near you
+Hope this helps
+Things should improve as the HTML5 standard is adopted as it covers many things not previously achievable with just HTML
+I use FF and Safari and have to say they function exactly as expected for any code I make
+I long ago gave up trying to satisfy IE users , if they insist on using a rubbish browser , they can suffer the risk of rubbish web pages like ( Link Removed by Moderator )
+To use the 3d functionality of Photoshop , it requires 512 MB of VRAM
+However , my laptop only has 375 MB of VRAM , but 6 GB of RAM
+I tried increasing the amount through my BIOS , but there was no option to change it
+I also tried to use the Registry editor , but that method also did n't work
+Does anyone know a method to increase or fake an increase of VRAM so that I can pass the VRAM check of Photoshop ? wanting to change the colour of a cell on sheet2 to match that on sheet1
+the following code wor a macro works , but what i need now is for it to skip the first 44 rows on sheet2 before applying the backgroud colour selected in sheet1
+so row 45 sheet2 will match row1 sheet1 if that make sense ? I looked and looked but could not find a software that would preserve the footage from both ends in the recording
+I heard that maybe Zoom Pro does it when recording in the cloud , but I have no way to test it without actually paying for a subscription
+Does anybody have any suggestions ? Or do you believe it s impossible ? Thank you all for your time
+In order to remedy it we were trying to find a software that would allow us to not only record the interview , but keep the recorded version clean , regardless of whether or not our interviewee disconnected
+Moreover , we wanted to do it from our end
+That part is important because our subjects are quite old , important , and not exactly tech savvy
+So I ca n't really rely on them to install OBS , learn how to use it , and have them send us the files
+NLP , NLU , and NLG all play a part in teaching machines to think more like humans
+They simply tackle different parts of the conversational AI problem
+How do you get machines to recognize , understand , and generate natural language ? How do you use it to answer search queries and create content at scale ? Let ’s take a specific example to illustrate just how these functions work together
+You get home from work and wonder how your stocks did today
+After you tell your smart device to turn on your lights and crank up the heat , you ask , “ Hey Google , how did the stock market do today ? ” Your Google Home device listens to your query , and then NLP kicks in
+It takes your question and breaks it down into understandable pieces – “ stock market ” and “ today ” being keywords on which it focuses
+Then it compares your query to similar queries made to Google in general and tries to understand what you ’re asking
+That ’s NLU
+I even tried to have the recovery image and PXE server on different computers without any luck
+Microsoft Excel 2013
+I know I can password protect files and workbooks but is there any way to use a password to protect Excel so that it can not be opened at all until the password is inserted
+Hello all , I m wondering if anyone would like to compare RPA products that are currently available
+I am aware of the mainstream ones like UiPath
+As someone who lived in China for some time I m also familiar with UiBot , the mainstream one used there
+I m wondering if anyone used both of these two before and can compare / analyze their strengths and weaknesses , or just a general discussion about these two
+Thanks ! As compared to all other programming languages , Python is broadly used by the developers because of several reasons
+Today , I am going to share some advantages of Python development
+The main advantages of Python languages are : it is easy to read as well as easy to learn
+Python language is better for automating build systems , collecting test data , server - side applications
+The main Python language advantages are that it is easy to read and easy to learn
+It is easier to write a program in Python than in C or C++
+With this language , you gain the possibility to think clearly while coding , which also makes the code easier to sustain
+Which reduces the cost for maintenance of the program and seen as one of Python programming advantages
+An important advantage of Python language is that it has wide applicability , and is extensively used by scientists , engineers , and mathematicians
+It is for this reason that Python is so useful for prototyping and all kinds of experiments
+It is used in many groundbreaking fields
+It is also used when producing animation for movies and in machine learning
+I m looking for FREE application or software alternative to : TNM , Nmap , NetCrunch
+I m searching software where i can : Ping , Scan lot of Private Subnets , view MACs , Reboot devices or Wake - On - Lan
+The important point for me is to scan unlimited devices
+Finlay , thanks & Best regards
+you can use monitoring solution like Zabbix , it is not so easy to install and configure but it can do what you need
+Thank you for your answer , are you sure if Zabbix a software ? did n't see the download link for Windows OS
+Also , sure it s not easy to install , maybe i need VM with Linux or CentOS to try it ! ! ! Having issues with a free self contained portable app called InstantWP the application executes all prerequisites to start until its final step accessing and making connection through ANY of 5 browsers it will not allow connection to http://127.0.0.1:10080 on my local machine any of four similarly configured as follows OS Version : Microsoft Windows 10 Home , 64 bit , Build 18363 , Installed 201**115173058.000000 - 240
+Processor : Intel(R ) Core(TM ) i7 - 6500U CPU @ 2.50GHz , Intel64 Family 6 Model 78 Stepping 3 , CPU Count : 4 ; Total Physical RAM : 12 GB ; Graphics Card : Intel ( R ) HD Graphics 520 , 1024 MB ; Hard Drives : C : 976 GB ( 822 GB Free ) ; Motherboard : HP 820C , ver 82.29 , s / n PFXTN038J560DY , System : Insyde , ver HPQOEM - 0 , s / n 5CD70109KQ , Antivirus : Norton Security Suite , Enabled and Updated although two others are win 10 pro this application runs on the local box has no need for internet access ( link removed by moderator ) any one shed any light as to why I can not get connection to http://127.0.0.1:10080 on local box(s ) Thanks
+Hello , I was wondering if it is possible in any way for someone to completely uninstall / remove the Microsoft Store that comes pre - installed with Windows 10
+I m saying completely , because it can either be restored through Windows Powershell or Command Prompt , but is it possible to remove the install package or something , in order for you to make the specific commands for restoring the Store not work , making the reinstall unfeasable ? It often happens that your downloaded videos are not playable on PC or portable devices
+What a frustrating situation ! More often than not , this problem might imply that your playable device is not compatible with original video format , which reminds you to do some extra conversion with professional converting software
+Hence , you will be more likely to search online for reliable software to convert MKV to MP4
+It is somewhat an act of dredging for a needle in the sea
+Any good solutions ? As I know , there are lots of free and online video converters in the market that you can use , like onlinevideoconverter , any video converter , etc
+If you do n't mind low - budget , I think you can use Joyoshare Video Converter
+It converts with 60X fast speed and supports multi - subtitle , muti - track videos
+I also use it to convert audios , DVDs , live photos
+Fast and lossless ! Maybe you can try to convert MKV to MP4 using some online converters , such as Zamzar , Convertio
+They are free and easy to use
+However , if your MKV files are large you can try Joyoshare Video Converter
+It can convert them without quality loss
+Also , VLC is a good option to encode video
+Apple is really famous for its proprietary software and the only software that Apple supports Windows I can find is iTunes
+However , the Windows iTunes is so heavy and clunky like a donkey
+It tries to load the app stubbornly on PC startup , and keeps running that really make me feel like crazy
+Even when I uncheck the " Open on Windows startup " and disable all Services that is related to iTunes , there is still something " Apple " there in the Task Manager that eats my RAM like a psycho
+Is this really Apple playing dirty on its competitor ? Further more , some of my friends complain that Shazam , a music recognition app owned by Apple , became terrible on Android since its acquisition by Apple
+Want to share the tools I used for recording screen on Windows , you may compare the pros and cons from the content below
+Meanwhile , I also would like to collect other great recorders from you guys
+Thanks ! Since personally I m more into web - based recorder , the online recorder part would be more detailed
+Different recorders offer a range of different features , can save captures in varying formats , or capture footage from external sources such as a webcam – and some even give you the opportunity to upload to the internet directly from within the program
+Some run nicely on average hardware , while others are more demanding
+The point is that there is plenty of choice
+ShareX At our organization , we are using Keka HR for payroll management & it does work perfectly , even the UI is good , this is a complete suite which includes , attendance , leave , tax & all those stuff
+Apart from this , you can also try Adp , Oracle , etc
+I moved to the Note 9
+The stylus addition has allowed me to replace carrying around my Surface for work
+I still break out the S8 + when I stream music or need a flashlight when working in the warehouse
+OBS Studio supports both streaming and recording in high definition , with no restrictions on the number or length of your creations
+You can stream live to Twitch or YouTube gaming , save projects and come back to them later , or encode your footage in FLV format and save it locally
+Because OBS Studio can record directly from your graphics card , it ’s able to capture games running in full - screen mode ( many other screen recorders can only record if the game is windowed ) , with customizable hotkeys to control the recording
+OBS Studio can also make full use of multi - core CPUs for improved performance and can record at 60FPS ( or even higher )
+I ve been trobueshooting something I ve been seeing for a few months
+A wireshark capture I ve been anaylyzing has some TCP out of order , Dup Ack s , and previous segment not captured
+Application works fine but not sure why I get these errors
+When I place the client and server on the same segment and right next to each other I still get the same errors
+I was told to uncheck the Analyze TCP sequence numbers and then all the errors disappeared from the pcap file
+They informed Wireshark has its own way of looking at the sequence numbers instead of using the raw sequence numbers from the pcap
+If I look at every wireshark capture file and have this option unchecked will wireshark disregard any errors it might potentially see
